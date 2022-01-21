@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: 0c240f23f96d099499b415749666939c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6023699498310559281
+    second: pixil-layer-Layer 1_0
+  - first:
+      213: 6208763349955058164
+    second: pixil-layer-Layer 1_1
+  - first:
+      213: 5661088495566465188
+    second: pixil-layer-Layer 1_2
+  - first:
+      213: -6367533588811990186
+    second: pixil-layer-Layer 1_3
+  - first:
+      213: -2682537071213069025
+    second: pixil-layer-Layer 1_4
+  - first:
+      213: -7585698602758266819
+    second: pixil-layer-Layer 1_5
+  - first:
+      213: 2316250202540657980
+    second: pixil-layer-Layer 1_6
+  - first:
+      213: 8278928377478047384
+    second: pixil-layer-Layer 1_7
+  - first:
+      213: 6758243536772443556
+    second: pixil-layer-Layer 1_8
+  - first:
+      213: -6138760717978053358
+    second: pixil-layer-Layer 1_9
+  - first:
+      213: -2601981099073689509
+    second: pixil-layer-Layer 1_10
+  - first:
+      213: 6962336658729951721
+    second: pixil-layer-Layer 1_11
+  - first:
+      213: -8965390826376875728
+    second: pixil-layer-Layer 1_12
+  - first:
+      213: 7254334197823481049
+    second: pixil-layer-Layer 1_13
+  - first:
+      213: 7681776164611481357
+    second: pixil-layer-Layer 1_14
+  - first:
+      213: -2222361540514081977
+    second: pixil-layer-Layer 1_15
+  - first:
+      213: -1096645157780694481
+    second: pixil-layer-Layer 1_16
+  - first:
+      213: -8064155023904395195
+    second: pixil-layer-Layer 1_17
+  - first:
+      213: -9043483533699066475
+    second: pixil-layer-Layer 1_18
+  - first:
+      213: -4074305800771384329
+    second: pixil-layer-Layer 1_19
+  - first:
+      213: 9108728805179109710
+    second: pixil-layer-Layer 1_20
+  - first:
+      213: 1934073170759334750
+    second: pixil-layer-Layer 1_21
+  - first:
+      213: -2369490761163471192
+    second: pixil-layer-Layer 1_22
+  - first:
+      213: -1063003415622409096
+    second: pixil-layer-Layer 1_23
+  - first:
+      213: 8889284352690645094
+    second: pixil-layer-Layer 1_24
+  - first:
+      213: -1317950544809988693
+    second: pixil-layer-Layer 1_25
+  - first:
+      213: 6359014886257920251
+    second: pixil-layer-Layer 1_26
+  - first:
+      213: -3614341625384088515
+    second: pixil-layer-Layer 1_27
+  - first:
+      213: 7160673780307290006
+    second: pixil-layer-Layer 1_28
+  - first:
+      213: 5861028005336586178
+    second: pixil-layer-Layer 1_29
+  - first:
+      213: 225597196386826581
+    second: pixil-layer-Layer 1_30
+  - first:
+      213: -6262406431547481283
+    second: pixil-layer-Layer 1_31
+  - first:
+      213: 1314616734388805438
+    second: pixil-layer-Layer 1_32
+  - first:
+      213: -7978224265209375036
+    second: pixil-layer-Layer 1_33
+  - first:
+      213: -2930615889256690252
+    second: pixil-layer-Layer 1_34
+  - first:
+      213: 8746002074021475257
+    second: pixil-layer-Layer 1_35
+  - first:
+      213: -2117558317147200264
+    second: pixil-layer-Layer 1_36
+  - first:
+      213: -7216799752272165503
+    second: pixil-layer-Layer 1_37
+  - first:
+      213: 7249815723826885124
+    second: pixil-layer-Layer 1_38
+  - first:
+      213: -8689249890142858785
+    second: pixil-layer-Layer 1_39
+  - first:
+      213: 4089362747394662880
+    second: pixil-layer-Layer 1_40
+  - first:
+      213: 2048914512585556122
+    second: pixil-layer-Layer 1_41
+  - first:
+      213: -867337316022772158
+    second: pixil-layer-Layer 1_42
+  - first:
+      213: 7244548556601501454
+    second: pixil-layer-Layer 1_43
+  - first:
+      213: -2924119867335693921
+    second: pixil-layer-Layer 1_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc91081a835876ca0800000000000000
+      internalID: -6023699498310559281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 149
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f919801f55f92650800000000000000
+      internalID: 6208763349955058164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 148
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a82a443ef9309e40800000000000000
+      internalID: 5661088495566465188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 149
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b3e7700f9f1a7a0800000000000000
+      internalID: -6367533588811990186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 133
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d37851fb6b5cad0800000000000000
+      internalID: -2682537071213069025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 133
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30aa61cf4f2ab690800000000000000
+      internalID: -7585698602758266819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 133
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dcc558949f42020800000000000000
+      internalID: 2316250202540657980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 117
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896ea74ee79a4e270800000000000000
+      internalID: 8278928377478047384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 139
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ada6e2a0ba1acd50800000000000000
+      internalID: 6758243536772443556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215dbcbc6adbecaa0800000000000000
+      internalID: -6138760717978053358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58ae6de9f7e3ebd0800000000000000
+      internalID: -2601981099073689509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 85
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e167469d403f9060800000000000000
+      internalID: 6962336658729951721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 117
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031b2494b88849380800000000000000
+      internalID: -8965390826376875728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4ac3f84829ca460800000000000000
+      internalID: 7254334197823481049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fdabfc8b62b9a60800000000000000
+      internalID: 7681776164611481357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 69
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7431b2714f59821e0800000000000000
+      internalID: -2222361540514081977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 87
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a54dd0a0fe7c0f0800000000000000
+      internalID: -1096645157780694481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 89
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5403f724bbd561090800000000000000
+      internalID: -8064155023904395195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 69
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595d5c9f3a71f7280800000000000000
+      internalID: -9043483533699066475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 69
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb45b6f5782577c0800000000000000
+      internalID: -4074305800771384329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 69
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b1149694b86e70800000000000000
+      internalID: 9108728805179109710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 65
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b39b83d4537da10800000000000000
+      internalID: 1934073170759334750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 65
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a60842f4b0ed1fd0800000000000000
+      internalID: -2369490761163471192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 65
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874acc886047f31f0800000000000000
+      internalID: -1063003415622409096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 65
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668609575051d5b70800000000000000
+      internalID: 8889284352690645094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 49
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad611956f2b5bde0800000000000000
+      internalID: -1317950544809988693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 65
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf803d8f852cf3850800000000000000
+      internalID: 6359014886257920251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_27
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 65
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cc21af07747ddc0800000000000000
+      internalID: -3614341625384088515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6976ba34dd2df5360800000000000000
+      internalID: 7160673780307290006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 51
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c714b4faed865150800000000000000
+      internalID: 5861028005336586178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 53
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f5f0747b712300800000000000000
+      internalID: 225597196386826581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 53
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33ad78b7867719a0800000000000000
+      internalID: -6262406431547481283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 49
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f570d64f47e3210800000000000000
+      internalID: 1314616734388805438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 49
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c61bcd1d47a74190800000000000000
+      internalID: -7978224265209375036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd4db3306c5457d0800000000000000
+      internalID: -2930615889256690252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 49
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b331ea4c8a006970800000000000000
+      internalID: 8746002074021475257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4644b0eebec92e0800000000000000
+      internalID: -2117558317147200264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 51
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185c0be8cd6c8db90800000000000000
+      internalID: -7216799752272165503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 48
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4023eb95df48c9460800000000000000
+      internalID: 7249815723826885124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 52
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1de653345996780800000000000000
+      internalID: -8689249890142858785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1ac2c90c550c830800000000000000
+      internalID: 4089362747394662880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 46
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a900ec1c4e43f6c10800000000000000
+      internalID: 2048914512585556122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 44
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e95027e4996f3f0800000000000000
+      internalID: -867337316022772158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 37
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e072d4a678ec98460800000000000000
+      internalID: 7244548556601501454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-Layer 1_44
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 37
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f992bca29707b67d0800000000000000
+      internalID: -2924119867335693921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
