@@ -20,6 +20,7 @@ public class playerLife : MonoBehaviour
     private GameObject emptyHeart3;
 
     private BoxCollider2D bc;
+    public SpriteRenderer sprite;
 
     void Start()
     {
@@ -59,7 +60,7 @@ public class playerLife : MonoBehaviour
             emptyHeart3.SetActive(true);
         }
 
-        if(life == 1)
+        if(life <= 0)
         {
             heart1.SetActive(false);
             heart2.SetActive(false);
@@ -91,7 +92,18 @@ public class playerLife : MonoBehaviour
     IEnumerator TakeDamage()
     {
         bc.enabled = false;
-        yield return new WaitForSeconds(2f);
+        sprite.color = new Color(1f, 0, 0, 1f); 
+        yield return new WaitForSeconds(0.3f);
+        sprite.color = new Color(1f, 1f, 1f, 1f);
+        
+        for(int i = 0; i < 7; i++)
+        {
+            sprite.enabled  = false;
+            yield return new WaitForSeconds(0.15f);
+            sprite.enabled  = true;
+            yield return new WaitForSeconds(0.15f);
+        }
+
         bc.enabled = true;
     }
 }
