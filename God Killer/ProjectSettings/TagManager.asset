@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - damage1
+  - box
   layers:
   - Default
   - TransparentFX

@@ -55,4 +55,20 @@ public class playerMovement : MonoBehaviour
             anim.SetBool("Left", false);
         }
     }
+
+    public void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "box")
+        {
+            anim.SetBool("pushing", true);
+        }  
+    }
+
+    public void OnCollisionExit2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "box")
+        {
+            anim.SetBool("pushing", false);
+        }       
+    }
 }
