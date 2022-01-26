@@ -6,16 +6,17 @@ TagManager:
   tags:
   - damage1
   - box
+  - hole
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - cantCross
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Player
+  - Box
+  - DontCollide
   - 
   - 
   - 
