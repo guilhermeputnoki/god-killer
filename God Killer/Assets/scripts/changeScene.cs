@@ -10,6 +10,8 @@ public class changeScene : MonoBehaviour
     public Animator anim;
 
     public bool deepForest;
+
+    public GameObject transition;
     
     void Start()
     {
@@ -47,8 +49,10 @@ public class changeScene : MonoBehaviour
 
     IEnumerator RegionName()
     {
+        anim.SetBool("on", false);
         yield return new WaitForSeconds(1.5f);
-        anim.SetBool("regionName", true);
+        transition.SetActive(false);
+        anim.SetBool("regionName", true);   
         yield return new WaitForSeconds(1.5f);
         anim.SetBool("regionName", false);
     }
