@@ -1,0 +1,20 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class arrowShooter : MonoBehaviour
+{
+    public GameObject arrow;
+    public Transform spawnArrow;
+    public float deley;
+
+    void Start()
+    {
+        InvokeRepeating("Shoot", 0, deley);
+    }
+
+    private void Shoot()
+    {
+        Instantiate(arrow, spawnArrow.position, spawnArrow.rotation);
+    }
+}
