@@ -10,14 +10,21 @@ public class changeScene : MonoBehaviour
     public Animator anim;
 
     public bool deepForest;
+    public bool ruins;
 
     public GameObject transition;
+
     
     void Start()
     {
         if(deepForest)
         {
-            StartCoroutine(RegionName());
+            StartCoroutine(RegionNameDeepForest());
+        }
+
+        if(ruins)
+        {
+            StartCoroutine(RegionNameRuins());
         }
     }
 
@@ -42,13 +49,23 @@ public class changeScene : MonoBehaviour
         anim.SetBool("on", false);
     }
 
-    IEnumerator RegionName()
+    IEnumerator RegionNameDeepForest()
     {
         anim.SetBool("on", false);
         yield return new WaitForSeconds(1.5f);
         transition.SetActive(false);
-        anim.SetBool("regionName", true);   
+        anim.SetBool("regionNameDeepForest", true);   
         yield return new WaitForSeconds(1.5f);
-        anim.SetBool("regionName", false);
+        anim.SetBool("regionNameDeepForest", false);
+    }
+
+    IEnumerator RegionNameRuins()
+    {
+        anim.SetBool("on", false);
+        yield return new WaitForSeconds(1.5f);
+        
+        anim.SetBool("regionNameRuins", true);   
+        yield return new WaitForSeconds(1.5f);
+        anim.SetBool("regionNameRuins", false);
     }
 }

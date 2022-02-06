@@ -9,6 +9,9 @@ TagManager:
   - hole
   - pedestal
   - heartPiece
+  - fountain
+  - teleporter1
+  - teleporter2
   layers:
   - Default
   - TransparentFX

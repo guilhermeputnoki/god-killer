@@ -24,6 +24,8 @@ public class playerLife : MonoBehaviour
     private GameObject leftHeartPiece;
     [SerializeField]
     private GameObject rightHeartPiece;
+    [SerializeField]
+    private GameObject HealingParticle;
 
     private BoxCollider2D bc;
     public SpriteRenderer sprite;
@@ -36,6 +38,29 @@ public class playerLife : MonoBehaviour
     void Start()
     {
         bc = GetComponent<BoxCollider2D>();
+
+        heartPieceQ = PlayerPrefs.GetInt("Quantity");
+
+        if(heartPieceQ > 0)
+            {
+                leftHeartPiece.SetActive(true);
+            }
+
+            if(heartPieceQ > 1)
+            {
+                rightHeartPiece.SetActive(true);
+
+                heartCompleate = true;
+
+                life = 4;
+
+                CheckLife();
+            }  
+    }
+
+    void Update()
+    {
+        MaxMinimun();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -44,7 +69,7 @@ public class playerLife : MonoBehaviour
         {
             life -= 1;
 
-            DecreaseLife();
+            CheckLife();
 
             StartCoroutine(TakeDamage());
         }
@@ -52,6 +77,8 @@ public class playerLife : MonoBehaviour
         if(collision.gameObject.tag == "heartPiece")
         {
             heartPieceQ += 1;
+
+            PlayerPrefs.SetInt("Quantity", heartPieceQ);
 
             if(heartPieceQ > 0)
             {
@@ -65,7 +92,32 @@ public class playerLife : MonoBehaviour
                 heartCompleate = true;
 
                 life = 4;
-            }           
+            }         
+        }
+
+        if(collision.gameObject.tag == "fountain")
+        {
+            if(life < 3 && !heartCompleate)
+            {
+                StartCoroutine(Heal());           
+            }
+
+            if(life == 3 && !heartCompleate)
+            {
+                HealingParticle.SetActive(false);
+            }
+
+            if(life < 4 && heartCompleate)
+            {
+                StartCoroutine(Heal());
+            }
+
+            if(life == 4 && heartCompleate)
+            {
+                HealingParticle.SetActive(false);
+            }
+            
+            CheckLife();
         }
     }
 
@@ -92,7 +144,7 @@ public class playerLife : MonoBehaviour
         bc.enabled = true;
     }
 
-    private void DecreaseLife()
+    private void CheckLife()
     {
         if(life == 4)
         {
@@ -103,8 +155,11 @@ public class playerLife : MonoBehaviour
             emptyHeart2.SetActive(false);
             emptyHeart3.SetActive(false);
             emptyHeart4.SetActive(false);
-            rightHeartPiece.SetActive(true);
-            leftHeartPiece.SetActive(true);
+            if(heartCompleate)
+            {
+                rightHeartPiece.SetActive(true);
+                leftHeartPiece.SetActive(true);
+            }
         }
 
         if(life == 3)
@@ -115,15 +170,11 @@ public class playerLife : MonoBehaviour
             emptyHeart1.SetActive(false);
             emptyHeart2.SetActive(false);
             emptyHeart3.SetActive(false);
-            rightHeartPiece.SetActive(false);
-            leftHeartPiece.SetActive(false);
             if(heartCompleate)
             {
                 emptyHeart4.SetActive(true);
-            }
-            else
-            {
-                emptyHeart4.SetActive(false);
+                rightHeartPiece.SetActive(false);
+                leftHeartPiece.SetActive(false);
             }
         }
 
@@ -135,15 +186,11 @@ public class playerLife : MonoBehaviour
             emptyHeart1.SetActive(false);
             emptyHeart2.SetActive(false);
             emptyHeart3.SetActive(true);
-            rightHeartPiece.SetActive(false);
-            leftHeartPiece.SetActive(false);
             if(heartCompleate)
             {
                 emptyHeart4.SetActive(true);
-            }
-            else
-            {
-                emptyHeart4.SetActive(false);
+                rightHeartPiece.SetActive(false);
+                leftHeartPiece.SetActive(false);
             }
             
         }
@@ -156,15 +203,11 @@ public class playerLife : MonoBehaviour
             emptyHeart1.SetActive(false);
             emptyHeart2.SetActive(true);
             emptyHeart3.SetActive(true);
-            rightHeartPiece.SetActive(false);
-            leftHeartPiece.SetActive(false);
             if(heartCompleate)
             {
                 emptyHeart4.SetActive(true);
-            }
-            else
-            {
-                emptyHeart4.SetActive(false);
+                rightHeartPiece.SetActive(false);
+                leftHeartPiece.SetActive(false);
             }
         }
 
@@ -176,20 +219,19 @@ public class playerLife : MonoBehaviour
             emptyHeart1.SetActive(true);
             emptyHeart2.SetActive(true);
             emptyHeart3.SetActive(true);
-            rightHeartPiece.SetActive(false);
-            leftHeartPiece.SetActive(false);
             if(heartCompleate)
             {
                 emptyHeart4.SetActive(true);
-            }
-            else
-            {
-                emptyHeart4.SetActive(false);
+                rightHeartPiece.SetActive(false);
+                leftHeartPiece.SetActive(false);
             }
 
             Dead();
         }
+    }
 
+    private void MaxMinimun()
+    {
         if(life > 3 && !heartCompleate)
         {
             life = 3;
@@ -199,5 +241,20 @@ public class playerLife : MonoBehaviour
         {
             life = 4;
         }
+    }
+
+    IEnumerator Heal()
+    {
+        HealingParticle.SetActive(true);
+        yield return new WaitForSeconds(1f);
+        life += 1;
+        CheckLife();
+        yield return new WaitForSeconds(1f);
+        life += 1;
+        CheckLife();
+        yield return new WaitForSeconds(1f);
+        life += 1;
+        CheckLife();
+        HealingParticle.SetActive(false);
     }
 }

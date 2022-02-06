@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_God Killer/Scenes/deep forest.unity
     guid: 8b2de240550e5bb4bb41715d655dc0af
+  - enabled: 1
+    path: Assets/_God Killer/Scenes/ruins.unity
+    guid: c5e7ec641c8707c4cb817f8fae7605d1
   m_configObjects: {}
