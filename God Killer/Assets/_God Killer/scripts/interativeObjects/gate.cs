@@ -4,7 +4,11 @@ using UnityEngine;
 
 public class gate : MonoBehaviour
 {
-   public stoneLight SL;
+    public stoneLight SL;
+    public stoneLight2 SL2;
+    public stoneLight3 SL3;
+    public stoneLight4 SL4;
+    public stoneLight5 SL5;
 
     private Animator anim;
 
@@ -13,6 +17,7 @@ public class gate : MonoBehaviour
 
     public bool gateOneButton;
     public bool oneStoneLight;
+    public bool fourStoneLight;
 
     void Start()
     {
@@ -51,6 +56,22 @@ public class gate : MonoBehaviour
         else
         {
             anim.SetBool("open3", false);
+        }
+
+        if(fourStoneLight && SL2.on == true)
+        {
+            if(SL3.on == true && SL4.on == true)
+            {
+                if(SL5.on == true)
+                {
+                    anim.SetBool("open4", true);
+                }
+                else
+                {
+                    anim.SetBool("open4", false);
+                }
+            }
+            
         }
     }
 }

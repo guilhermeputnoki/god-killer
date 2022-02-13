@@ -25,14 +25,6 @@ public class dialogueControl : MonoBehaviour
         playerMove = FindObjectOfType<playerMovement>();
     }
 
-    private void Update()
-    {
-        if(manualActive)
-        {
-            NextSentence();
-        }
-    }
-
     public void Speech(Sprite prof, string[] txt, string name)
     {
         dialogueObj.SetActive(true);

@@ -12,6 +12,10 @@ TagManager:
   - fountain
   - teleporter1
   - teleporter2
+  - pedestal2
+  - pedestal3
+  - pedestal4
+  - pedestal5
   layers:
   - Default
   - TransparentFX

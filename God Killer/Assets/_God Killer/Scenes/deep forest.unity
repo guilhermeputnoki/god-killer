@@ -43252,6 +43252,7 @@ MonoBehaviour:
   speechText: {fileID: 1060030236}
   characterNameText: {fileID: 1753977085}
   typingSpeed: 0.03
+  manualActive: 0
 --- !u!4 &790315847
 Transform:
   m_ObjectHideFlags: 0
@@ -51938,6 +51939,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerAnim: {fileID: 75633848}
+  Dialogue: {fileID: 954105032}
   heartPiece: {fileID: 1233618973397764361, guid: b32bc06704de36d46b70e233695878f2, type: 3}
   spawn: {fileID: 1018350464}
 --- !u!61 &954105026
@@ -101388,6 +101390,7 @@ MonoBehaviour:
   sceneName: ruins
   anim: {fileID: 1312628415}
   deepForest: 0
+  ruins: 0
   transition: {fileID: 2060103823}
 --- !u!4 &1951431964
 Transform:
@@ -107604,6 +107607,7 @@ MonoBehaviour:
   sceneName: 
   anim: {fileID: 1700404523}
   deepForest: 1
+  ruins: 0
   transition: {fileID: 1173291334}
 --- !u!4 &2068629358
 Transform:
