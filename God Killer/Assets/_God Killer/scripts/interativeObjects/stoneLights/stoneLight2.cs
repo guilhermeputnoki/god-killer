@@ -6,6 +6,8 @@ public class stoneLight2 : MonoBehaviour
 {
     public pedestal Pedestal;
     public lightPilar pilar;
+    public AudioSource dragging;
+    public AudioSource shining;
 
     public bool on;
     public bool on2;
@@ -19,6 +21,11 @@ public class stoneLight2 : MonoBehaviour
             StartCoroutine(shine());
             StartCoroutine(PilarShine());
         }
+
+        if(collision.gameObject.tag == "Player")
+        {
+            dragging.Play();
+        }
     }
 
     public void OnTriggerExit2D(Collider2D collision)
@@ -29,6 +36,11 @@ public class stoneLight2 : MonoBehaviour
             on = false;
             StartCoroutine(off());
             StartCoroutine(PilarOff());
+        }
+
+        if(collision.gameObject.tag == "Player")
+        {
+            dragging.Pause();
         }
     }
 
@@ -56,6 +68,7 @@ public class stoneLight2 : MonoBehaviour
 
     private IEnumerator PilarShine()
     {
+        shining.Play();
         pilar.light1.SetActive(true);
         yield return new WaitForSeconds(0.5f);
         pilar.light2.SetActive(true);
@@ -71,6 +84,7 @@ public class stoneLight2 : MonoBehaviour
 
     private IEnumerator PilarOff()
     {
+        shining.Play();
         pilar.light6.SetActive(false);
         yield return new WaitForSeconds(0.5f);
         pilar.light5.SetActive(false);

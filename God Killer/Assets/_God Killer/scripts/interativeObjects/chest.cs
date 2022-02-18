@@ -14,6 +14,9 @@ public class chest : MonoBehaviour
 
     private Animator anim;
 
+    public AudioSource open;
+    public AudioSource colectHeart;
+
     void Start()
     {
         anim = GetComponent<Animator>();
@@ -32,9 +35,11 @@ public class chest : MonoBehaviour
     IEnumerator Open()
     {
         anim.enabled = true;
+        open.Play();
         yield return new WaitForSeconds(1f);
         Instantiate(heartPiece, spawn.position, spawn.rotation);
         PlayerAnim.takingItem = true;
         PlayerAnim.heartPieceOnHand.SetActive(true);
+        colectHeart.Play();
     }
 }

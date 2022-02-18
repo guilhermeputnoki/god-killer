@@ -7,6 +7,7 @@ public class arrowShooter : MonoBehaviour
     public GameObject arrow;
     public Transform spawnArrow;
     public float deley;
+    public AudioSource shoot;
 
     void Start()
     {
@@ -15,6 +16,7 @@ public class arrowShooter : MonoBehaviour
 
     private void Shoot()
     {
+        shoot.Play();
         Instantiate(arrow, spawnArrow.position, spawnArrow.rotation);
     }
 }

@@ -8,6 +8,7 @@ public class box : MonoBehaviour
     private BoxCollider2D bc;
     private SpriteRenderer sprite;
     public GameObject bridge;
+    public AudioSource dragging;
 
     void Start()
     {
@@ -21,6 +22,19 @@ public class box : MonoBehaviour
         if(collision.gameObject.tag == "hole")
         {
             StartCoroutine(Bridge());
+        }
+
+        if(collision.gameObject.tag == "Player")
+        {
+            dragging.Play();
+        }
+    }
+
+    public void OnCollisionExit2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "Player")
+        {
+            dragging.Pause();
         }
     }
 
