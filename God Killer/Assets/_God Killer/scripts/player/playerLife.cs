@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class playerLife : MonoBehaviour
 {
@@ -35,11 +36,18 @@ public class playerLife : MonoBehaviour
 
     private bool heartCompleate;
 
+    void Awake()
+    {
+        PlayerPrefs.SetInt("lifes", life);
+    }
+
     void Start()
     {
         bc = GetComponent<BoxCollider2D>();
 
         heartPieceQ = PlayerPrefs.GetInt("Quantity");
+
+        life = PlayerPrefs.GetInt("lifes");
 
         if(heartPieceQ > 0)
             {
@@ -124,6 +132,8 @@ public class playerLife : MonoBehaviour
     public void Dead()
     {
         Destroy(gameObject , 1);
+        
+
     }
 
     IEnumerator TakeDamage()

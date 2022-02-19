@@ -17581,6 +17581,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ca7f508e67fbef4eb3f09cef8e7d08c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  savedScene: 
+  saveSlot: 0
 --- !u!1 &574840184
 GameObject:
   m_ObjectHideFlags: 0
@@ -43871,6 +43873,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58fd0fe303899584788eb06346a5a23d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  saves: 0
   sceneName: deep forest
   anim: {fileID: 605863523}
   deepForest: 0

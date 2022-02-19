@@ -5,24 +5,21 @@ using UnityEngine.SceneManagement;
 
 public class saveGame : MonoBehaviour
 {
-    string curentScene;
-
-    void Awake()
-    {
-        curentScene = SceneManager.GetActiveScene().name;
-    }
+    public string savedScene;
 
     void Start()
     {
-        //if(PlayerPrefs.HasKey(curentScene + "X") && PlayerPrefs.HasKey(curentScene + "Y"))
-        //{
-            //transform.position = new Vector2(PlayerPrefs.GetFloat(curentScene + "X"), PlayerPrefs.GetFloat(curentScene + "Y"));
-        //}
+        if(PlayerPrefs.HasKey(savedScene + "X") && PlayerPrefs.HasKey(savedScene + "Y"))
+        {
+            transform.position = new Vector2(PlayerPrefs.GetFloat(savedScene + "X"), PlayerPrefs.GetFloat(savedScene + "Y"));
+        }
     }
 
     public void SaveGame()
     {
-        PlayerPrefs.SetFloat(curentScene + "X", transform.position.x);
-        PlayerPrefs.SetFloat(curentScene + "Y", transform.position.y);
+        savedScene = SceneManager.GetActiveScene().name;
+        PlayerPrefs.SetString("saved", savedScene);
+        PlayerPrefs.SetFloat(savedScene + "X", transform.position.x);
+        PlayerPrefs.SetFloat(savedScene + "Y", transform.position.y);
     }
 }

@@ -52,6 +52,13 @@ public class changeScene : MonoBehaviour
         SceneManager.LoadScene("main menu");
     }
 
+    public void NewGame()
+    {
+        StartCoroutine(Transition());
+        SceneManager.LoadScene("forest");
+        PlayerPrefs.DeleteAll();
+    }
+
     public IEnumerator Transition()
     {
         anim.SetBool("on", true);
