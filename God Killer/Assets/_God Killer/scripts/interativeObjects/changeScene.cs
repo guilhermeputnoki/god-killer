@@ -46,7 +46,13 @@ public class changeScene : MonoBehaviour
         SceneManager.LoadScene(sceneName);    
     }
 
-    IEnumerator Transition()
+    public void StartTransition()
+    {
+        StartCoroutine(Transition());
+        SceneManager.LoadScene("main menu");
+    }
+
+    public IEnumerator Transition()
     {
         anim.SetBool("on", true);
         yield return new WaitForSeconds(1.5f);
