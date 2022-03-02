@@ -5,6 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class playerLife : MonoBehaviour
 {
+    public savePosition save;
+    public playerMovement PM;
+
+    public bool transition;
+
     public int life = 3;
 
     [SerializeField]
@@ -28,18 +33,18 @@ public class playerLife : MonoBehaviour
     [SerializeField]
     private GameObject HealingParticle;
 
-    private BoxCollider2D bc;
+    public GameObject dilogueShild;
+
+    public BoxCollider2D bc;
     public SpriteRenderer sprite;
 
     [SerializeField]
     private int heartPieceQ;
 
     private bool heartCompleate;
+    public bool bossArena;
 
-    void Awake()
-    {
-        PlayerPrefs.SetInt("lifes", life);
-    }
+    public string sceneName;
 
     void Start()
     {
@@ -47,7 +52,12 @@ public class playerLife : MonoBehaviour
 
         heartPieceQ = PlayerPrefs.GetInt("Quantity");
 
-        life = PlayerPrefs.GetInt("lifes");
+        if(PlayerPrefs.HasKey("lifes"))
+        {
+            life = PlayerPrefs.GetInt("lifes");
+        }
+
+        CheckLife();
 
         if(heartPieceQ > 0)
             {
@@ -60,7 +70,7 @@ public class playerLife : MonoBehaviour
 
                 heartCompleate = true;
 
-                life = 4;
+                life += 4;
 
                 CheckLife();
             }  
@@ -78,6 +88,8 @@ public class playerLife : MonoBehaviour
             life -= 1;
 
             CheckLife();
+
+            PlayerPrefs.SetInt("lifes", life);
 
             StartCoroutine(TakeDamage());
         }
@@ -100,6 +112,8 @@ public class playerLife : MonoBehaviour
                 heartCompleate = true;
 
                 life = 4;
+
+                CheckLife();
             }         
         }
 
@@ -130,10 +144,15 @@ public class playerLife : MonoBehaviour
     }
 
     public void Dead()
-    {
-        Destroy(gameObject , 1);
-        
-
+    {   
+        if(bossArena)
+        {
+            StartCoroutine(DieInBossArena());
+        }
+        else
+        {
+            StartCoroutine(Die());
+        }    
     }
 
     IEnumerator TakeDamage()
@@ -266,5 +285,35 @@ public class playerLife : MonoBehaviour
         life += 1;
         CheckLife();
         HealingParticle.SetActive(false);
+    }
+
+    IEnumerator Die()
+    {
+        PM.speed = 0;
+        yield return new WaitForSeconds(2f); 
+        transition = true;
+        yield return new WaitForSeconds(1f); 
+        save.LoadPosition();
+        life += 4;
+        CheckLife();
+        yield return new WaitForSeconds(1f); 
+        transition = false;
+        life += 4;
+        PM.speed = 5;
+    }
+
+    IEnumerator DieInBossArena()
+    {
+        PM.speed = 0;
+        yield return new WaitForSeconds(2f); 
+        transition = true;
+        yield return new WaitForSeconds(1f); 
+        SceneManager.LoadScene(sceneName);  
+        life += 4;
+        CheckLife();
+        yield return new WaitForSeconds(1f); 
+        transition = false;
+        life += 4;
+        PM.speed = 5;
     }
 }

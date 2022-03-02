@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class stoneLight5 : MonoBehaviour
 {
@@ -11,6 +12,31 @@ public class stoneLight5 : MonoBehaviour
     
     public bool on;
     public bool on5;
+    string curentSceneS;
+
+    void Awake()
+    {
+        curentSceneS = SceneManager.GetActiveScene().name;
+    }
+
+    void Start()
+    {
+        LoadPosition();
+    }
+
+    public void SavePosition()
+    {
+        PlayerPrefs.SetFloat(curentSceneS + "6X", transform.position.x);
+        PlayerPrefs.SetFloat(curentSceneS + "6Y", transform.position.y);
+    }
+
+    public void LoadPosition()
+    {
+        if(PlayerPrefs.HasKey(curentSceneS + "6X") && PlayerPrefs.HasKey(curentSceneS + "6Y"))
+        {
+            transform.position = new Vector2(PlayerPrefs.GetFloat(curentSceneS + "6X"), PlayerPrefs.GetFloat(curentSceneS + "6Y"));
+        }
+    }
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
@@ -41,6 +67,23 @@ public class stoneLight5 : MonoBehaviour
         if(collision.gameObject.tag == "Player")
         {
             dragging.Pause();
+        }
+    }
+
+    public void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "Player")
+        {
+            dragging.Play();
+        }
+    }
+
+    public void OnCollisionExit2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "Player")
+        {
+            dragging.Pause();
+            SavePosition();
         }
     }
 

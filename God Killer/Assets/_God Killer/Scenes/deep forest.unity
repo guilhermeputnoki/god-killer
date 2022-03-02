@@ -3893,6 +3893,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a740861801d16744b9bd16eb70a33167, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  HP: {fileID: 898424096}
   takingItem: 0
   heartPieceOnHand: {fileID: 1126331145}
 --- !u!114 &75633849
@@ -41622,12 +41623,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67f6ed0f4abd7444c8f6d11e3dcf26e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  HP: {fileID: 898424096}
+  Dialogue: {fileID: 954105032}
   dialogueObj: {fileID: 454194809}
   profile: {fileID: 1823619912}
+  profile2: {fileID: 1823619912}
   speechText: {fileID: 1060030236}
   characterNameText: {fileID: 1753977085}
+  characterNameText2: {fileID: 1753977085}
   typingSpeed: 0.03
   manualActive: 0
+  secondPerson: 0
+  StartBossFight: 0
+  bossArena: 0
 --- !u!4 &790315847
 Transform:
   m_ObjectHideFlags: 0
@@ -46269,6 +46277,17 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &898424096 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6601319026726854784, guid: 8e97e9ce45ecf554cbcf6d8a3dcff688, type: 3}
+  m_PrefabInstance: {fileID: 6601319026103424161}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 300755a2287071b4daad13c6a2fc62f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &900729676
 GameObject:
   m_ObjectHideFlags: 0
@@ -49402,10 +49421,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   profile: {fileID: 5629600339287228216, guid: 6c75548eccccee94487a4fea6a454a3c, type: 3}
+  profile2: {fileID: 5629600339287228216, guid: 6c75548eccccee94487a4fea6a454a3c, type: 3}
   speechTxt:
   - "Eu coletei um peda\xE7o de cora\xE7\xE3o "
   - Com dois deles posso combina-los para aumentar a minha vida permanentemente
   characterName: Cody
+  characterName2: Cody
+  longDialogue: 0
+  bossDialogue: 0
+  bossFinalDialogue: 0
 --- !u!82 &954105033
 AudioSource:
   m_ObjectHideFlags: 0
@@ -83115,6 +83139,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ca7f508e67fbef4eb3f09cef8e7d08c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  savedScene: 
 --- !u!1 &1682000845
 GameObject:
   m_ObjectHideFlags: 0
@@ -96648,11 +96673,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58fd0fe303899584788eb06346a5a23d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  HP: {fileID: 898424096}
   sceneName: ruins
   anim: {fileID: 1312628415}
   deepForest: 0
   ruins: 0
   forest: 0
+  teste: 0
   transition: {fileID: 2060103823}
 --- !u!4 &1951431964
 Transform:
@@ -102518,11 +102545,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58fd0fe303899584788eb06346a5a23d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  HP: {fileID: 898424096}
   sceneName: forest
   anim: {fileID: 1700404523}
   deepForest: 1
   ruins: 0
   forest: 0
+  teste: 0
   transition: {fileID: 1173291334}
 --- !u!4 &2068629358
 Transform:
@@ -105821,6 +105850,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6601319026726854784, guid: 8e97e9ce45ecf554cbcf6d8a3dcff688, type: 3}
+      propertyPath: PM
+      value: 
+      objectReference: {fileID: 6601319026103424162}
+    - target: {fileID: 6601319026726854784, guid: 8e97e9ce45ecf554cbcf6d8a3dcff688, type: 3}
+      propertyPath: save
+      value: 
+      objectReference: {fileID: 75633849}
+    - target: {fileID: 6601319026726854784, guid: 8e97e9ce45ecf554cbcf6d8a3dcff688, type: 3}
       propertyPath: heart1
       value: 
       objectReference: {fileID: 1110392171}
@@ -105832,6 +105869,10 @@ PrefabInstance:
       propertyPath: heart3
       value: 
       objectReference: {fileID: 941889053}
+    - target: {fileID: 6601319026726854784, guid: 8e97e9ce45ecf554cbcf6d8a3dcff688, type: 3}
+      propertyPath: sceneName
+      value: ruins
+      objectReference: {fileID: 0}
     - target: {fileID: 6601319026726854784, guid: 8e97e9ce45ecf554cbcf6d8a3dcff688, type: 3}
       propertyPath: emptyHeart1
       value: 
@@ -105849,6 +105890,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 856466928}
     - target: {fileID: 6601319026726854784, guid: 8e97e9ce45ecf554cbcf6d8a3dcff688, type: 3}
+      propertyPath: dilogueShild
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601319026726854784, guid: 8e97e9ce45ecf554cbcf6d8a3dcff688, type: 3}
       propertyPath: leftHeartPiece
       value: 
       objectReference: {fileID: 1103189808}
@@ -105862,6 +105907,17 @@ PrefabInstance:
       objectReference: {fileID: 1656257857}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e97e9ce45ecf554cbcf6d8a3dcff688, type: 3}
+--- !u!114 &6601319026103424162 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6601319024906871381, guid: 8e97e9ce45ecf554cbcf6d8a3dcff688, type: 3}
+  m_PrefabInstance: {fileID: 6601319026103424161}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 75633847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04afee843909e904aa1314cea46cc1eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &6977487654078251369
 PrefabInstance:
   m_ObjectHideFlags: 0

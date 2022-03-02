@@ -5,6 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class changeScene : MonoBehaviour
 {
+    public playerLife HP;
+
     public string sceneName;
 
     public Animator anim;
@@ -12,6 +14,7 @@ public class changeScene : MonoBehaviour
     public bool deepForest;
     public bool ruins;
     public bool forest;
+    public bool teste;
 
     public GameObject transition;
 
@@ -30,6 +33,14 @@ public class changeScene : MonoBehaviour
         if(forest)
         {
             StartCoroutine(RegionNameForest());
+        }
+    }
+
+    void Update()
+    {
+        if(HP.transition)
+        {
+            StartCoroutine(DeadTransition());
         }
     }
 
@@ -92,5 +103,12 @@ public class changeScene : MonoBehaviour
         anim.SetBool("regionNameForest", true);   
         yield return new WaitForSeconds(1.5f);
         anim.SetBool("regionNameForest", false);
+    }
+
+    public IEnumerator DeadTransition()
+    {
+        anim.SetBool("on", true);
+        yield return new WaitForSeconds(1.5f);
+        anim.SetBool("on", false);
     }
 }

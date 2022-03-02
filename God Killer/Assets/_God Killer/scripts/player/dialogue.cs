@@ -5,8 +5,13 @@ using UnityEngine;
 public class dialogue : MonoBehaviour
 {
     public Sprite profile;
+    public Sprite profile2;
     public string[] speechTxt;
     public string characterName;
+    public string characterName2;
+    public bool longDialogue;
+    public bool bossDialogue;
+    public bool bossFinalDialogue;
 
     private dialogueControl dc;
 
@@ -17,6 +22,8 @@ public class dialogue : MonoBehaviour
 
     public void Activate()
     {
-        dc.Speech(profile, speechTxt, characterName);
+        dc.Speech(profile, profile2, speechTxt, characterName, characterName2);
     }
+
+    
 }

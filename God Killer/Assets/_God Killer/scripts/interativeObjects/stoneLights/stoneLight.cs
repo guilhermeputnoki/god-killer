@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class stoneLight : MonoBehaviour
 {
@@ -8,9 +9,34 @@ public class stoneLight : MonoBehaviour
     public lightPilar pilar;
     public AudioSource dragging;
     public AudioSource shining;
+    string curentSceneS;
 
     public bool on;
     public bool on1;
+
+    void Awake()
+    {
+        curentSceneS = SceneManager.GetActiveScene().name;
+    }
+
+    void Start()
+    {
+        LoadPosition();
+    }
+
+    public void SavePosition()
+    {
+        PlayerPrefs.SetFloat(curentSceneS + "2X", transform.position.x);
+        PlayerPrefs.SetFloat(curentSceneS + "2Y", transform.position.y);
+    }
+
+    public void LoadPosition()
+    {
+        if(PlayerPrefs.HasKey(curentSceneS + "2X") && PlayerPrefs.HasKey(curentSceneS + "2Y"))
+        {
+            transform.position = new Vector2(PlayerPrefs.GetFloat(curentSceneS + "2X"), PlayerPrefs.GetFloat(curentSceneS + "2Y"));
+        }
+    }
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
@@ -52,6 +78,7 @@ public class stoneLight : MonoBehaviour
         if(collision.gameObject.tag == "Player")
         {
             dragging.Pause();
+            SavePosition();
         }
     }
 

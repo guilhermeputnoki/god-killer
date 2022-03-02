@@ -17582,7 +17582,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   savedScene: 
-  saveSlot: 0
 --- !u!1 &574840184
 GameObject:
   m_ObjectHideFlags: 0
@@ -18444,7 +18443,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 1664183297
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_TargetDisplay: 0
 --- !u!1 &616523655
 GameObject:
@@ -27144,6 +27143,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 300755a2287071b4daad13c6a2fc62f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  save: {fileID: 1198929657}
+  PM: {fileID: 1198929652}
+  transition: 0
   life: 3
   heart1: {fileID: 1110392171}
   heart2: {fileID: 922904190}
@@ -27155,8 +27157,12 @@ MonoBehaviour:
   leftHeartPiece: {fileID: 132585561}
   rightHeartPiece: {fileID: 1522583764}
   HealingParticle: {fileID: 513081780}
+  dilogueShild: {fileID: 0}
+  bc: {fileID: 0}
   sprite: {fileID: 1198929649}
   heartPieceQ: 0
+  bossArena: 0
+  sceneName: ruins
 --- !u!61 &989393954
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31981,6 +31987,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a740861801d16744b9bd16eb70a33167, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  HP: {fileID: 989393953}
   takingItem: 0
   heartPieceOnHand: {fileID: 0}
 --- !u!114 &1198929657
@@ -43873,12 +43880,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58fd0fe303899584788eb06346a5a23d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  saves: 0
+  HP: {fileID: 989393953}
   sceneName: deep forest
   anim: {fileID: 605863523}
   deepForest: 0
   ruins: 0
   forest: 1
+  teste: 0
   transition: {fileID: 894257508}
 --- !u!4 &1736395676
 Transform:

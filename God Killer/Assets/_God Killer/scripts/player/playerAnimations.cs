@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class playerAnimations : MonoBehaviour
 {
+    public playerLife HP;
+
     private Animator anim;
 
     public bool takingItem;
@@ -24,6 +26,15 @@ public class playerAnimations : MonoBehaviour
         else
         {
             anim.SetBool("takingItem", false);
+        }
+
+        if(HP.life <= 0)
+        {
+            anim.SetBool("dead", true);
+        }
+        else
+        {
+            anim.SetBool("dead", false);
         }
     }
 

@@ -13,10 +13,7 @@ public class savePosition : MonoBehaviour
 
     void Start()
     {
-        if(PlayerPrefs.HasKey(curentScene + "X") && PlayerPrefs.HasKey(curentScene + "Y"))
-        {
-            transform.position = new Vector2(PlayerPrefs.GetFloat(curentScene + "X"), PlayerPrefs.GetFloat(curentScene + "Y"));
-        }
+        LoadPosition();
     }
 
     void Update()
@@ -28,5 +25,13 @@ public class savePosition : MonoBehaviour
     {
         PlayerPrefs.SetFloat(curentScene + "X", transform.position.x);
         PlayerPrefs.SetFloat(curentScene + "Y", transform.position.y);
+    }
+
+    public void LoadPosition()
+    {
+        if(PlayerPrefs.HasKey(curentScene + "X") && PlayerPrefs.HasKey(curentScene + "Y"))
+        {
+            transform.position = new Vector2(PlayerPrefs.GetFloat(curentScene + "X"), PlayerPrefs.GetFloat(curentScene + "Y"));
+        }
     }
 }

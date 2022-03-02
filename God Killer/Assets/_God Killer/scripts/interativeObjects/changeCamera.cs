@@ -6,12 +6,15 @@ using Cinemachine;
 public class changeCamera : MonoBehaviour
 {
     public bool mainCamera = true;
+    public bool bossFight;
 
     [SerializeField]
     private CinemachineVirtualCamera vcam1;
 
     [SerializeField]
     private CinemachineVirtualCamera vcam2;
+
+    public BoxCollider2D bc;
 
     private void ChangePriority()
     {
@@ -41,7 +44,14 @@ public class changeCamera : MonoBehaviour
     {
         if(collision.gameObject.tag == "Player")
         {
-            ChangePriority();
+            if(!bossFight)
+            {
+                ChangePriority();
+            }
+            else
+            {
+                bc.enabled = false;
+            }   
         }
     }
 }
