@@ -25,6 +25,9 @@ public class dialogueControl : MonoBehaviour
     public bool secondPerson;
     public bool StartBossFight;
     public bool bossArena; 
+    public bool dontAttack;
+
+    public bool teste;
 
     private void Start()
     {
@@ -53,6 +56,7 @@ public class dialogueControl : MonoBehaviour
     public void Speech(Sprite prof, Sprite prof2, string[] txt, string name, string name2)
     {
         dialogueObj.SetActive(true);
+        dontAttack = true;
         profile.sprite = prof;
         profile2.sprite = prof2;
         sentences = txt;
@@ -99,6 +103,7 @@ public class dialogueControl : MonoBehaviour
                 playerAnim.heartPieceOnHand.SetActive(false);
                 playerMove.speed = 5;
                 HP.bc.enabled = true;
+                dontAttack = false;
                 if(Dialogue.bossDialogue)
                 {
                     StartBossFight = true;

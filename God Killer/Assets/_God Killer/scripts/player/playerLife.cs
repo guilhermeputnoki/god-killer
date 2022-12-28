@@ -10,14 +10,8 @@ public class playerLife : MonoBehaviour
 
     public bool transition;
 
-    public int life = 3;
+    public int life = 6;
 
-    [SerializeField]
-    private GameObject heart1;
-    [SerializeField]
-    private GameObject heart2;
-    [SerializeField]
-    private GameObject heart3;
     [SerializeField]
     private GameObject emptyHeart1;
     [SerializeField]
@@ -27,9 +21,21 @@ public class playerLife : MonoBehaviour
     [SerializeField]
     private GameObject emptyHeart4;
     [SerializeField]
-    private GameObject leftHeartPiece;
+    private GameObject leftHeartPiece1;
     [SerializeField]
-    private GameObject rightHeartPiece;
+    private GameObject rightHeartPiece1;
+    [SerializeField]
+    private GameObject leftHeartPiece2;
+    [SerializeField]
+    private GameObject rightHeartPiece2;
+    [SerializeField]
+    private GameObject leftHeartPiece3;
+    [SerializeField]
+    private GameObject rightHeartPiece3;
+    [SerializeField]
+    private GameObject leftHeartPiece4;
+    [SerializeField]
+    private GameObject rightHeartPiece4;
     [SerializeField]
     private GameObject HealingParticle;
 
@@ -60,20 +66,20 @@ public class playerLife : MonoBehaviour
         CheckLife();
 
         if(heartPieceQ > 0)
-            {
-                leftHeartPiece.SetActive(true);
-            }
+        {
+            leftHeartPiece4.SetActive(true);
+        }
 
-            if(heartPieceQ > 1)
-            {
-                rightHeartPiece.SetActive(true);
+        if(heartPieceQ > 1)
+        {
+            rightHeartPiece4.SetActive(true);
 
-                heartCompleate = true;
+            heartCompleate = true;
 
-                life += 4;
+            life += 4;
 
-                CheckLife();
-            }  
+            CheckLife();
+        }
     }
 
     void Update()
@@ -102,12 +108,12 @@ public class playerLife : MonoBehaviour
 
             if(heartPieceQ > 0)
             {
-                leftHeartPiece.SetActive(true);
+                leftHeartPiece4.SetActive(true);
             }
 
             if(heartPieceQ > 1)
             {
-                rightHeartPiece.SetActive(true);
+                rightHeartPiece4.SetActive(true);
 
                 heartCompleate = true;
 
@@ -119,22 +125,22 @@ public class playerLife : MonoBehaviour
 
         if(collision.gameObject.tag == "fountain")
         {
-            if(life < 3 && !heartCompleate)
+            if(life < 6 && !heartCompleate)
             {
                 StartCoroutine(Heal());           
             }
 
-            if(life == 3 && !heartCompleate)
+            if(life == 6 && !heartCompleate)
             {
                 HealingParticle.SetActive(false);
             }
 
-            if(life < 4 && heartCompleate)
+            if(life < 8 && heartCompleate)
             {
                 StartCoroutine(Heal());
             }
 
-            if(life == 4 && heartCompleate)
+            if(life == 8 && heartCompleate)
             {
                 HealingParticle.SetActive(false);
             }
@@ -175,84 +181,179 @@ public class playerLife : MonoBehaviour
 
     private void CheckLife()
     {
-        if(life == 4)
+        if(life == 8)
         {
-            heart1.SetActive(true);
-            heart2.SetActive(true);
-            heart3.SetActive(true);
+            leftHeartPiece1.SetActive(true);
+            rightHeartPiece1.SetActive(true);
+            leftHeartPiece2.SetActive(true);
+            rightHeartPiece2.SetActive(true);
+            leftHeartPiece3.SetActive(true);
+            rightHeartPiece3.SetActive(true);
             emptyHeart1.SetActive(false);
             emptyHeart2.SetActive(false);
             emptyHeart3.SetActive(false);
             emptyHeart4.SetActive(false);
             if(heartCompleate)
             {
-                rightHeartPiece.SetActive(true);
-                leftHeartPiece.SetActive(true);
+                rightHeartPiece4.SetActive(true);
+                leftHeartPiece4.SetActive(true);
             }
         }
 
-        if(life == 3)
+        if(life == 7)
         {
-            heart1.SetActive(true);
-            heart2.SetActive(true);
-            heart3.SetActive(true);
+            leftHeartPiece1.SetActive(true);
+            rightHeartPiece1.SetActive(true);
+            leftHeartPiece2.SetActive(true);
+            rightHeartPiece2.SetActive(true);
+            leftHeartPiece3.SetActive(true);
+            rightHeartPiece3.SetActive(true);
             emptyHeart1.SetActive(false);
             emptyHeart2.SetActive(false);
             emptyHeart3.SetActive(false);
             if(heartCompleate)
             {
                 emptyHeart4.SetActive(true);
-                rightHeartPiece.SetActive(false);
-                leftHeartPiece.SetActive(false);
+                rightHeartPiece4.SetActive(false);
+                leftHeartPiece4.SetActive(true);
             }
         }
 
-        if(life == 2)
+        if(life == 6)
         {
-            heart1.SetActive(true);
-            heart2.SetActive(true);
-            heart3.SetActive(false);
+            leftHeartPiece1.SetActive(true);
+            rightHeartPiece1.SetActive(true);
+            leftHeartPiece2.SetActive(true);
+            rightHeartPiece2.SetActive(true);
+            leftHeartPiece3.SetActive(true);
+            rightHeartPiece3.SetActive(true);
+            emptyHeart1.SetActive(false);
+            emptyHeart2.SetActive(false);
+            emptyHeart3.SetActive(false);
+            if(heartCompleate)
+            {
+                emptyHeart4.SetActive(true);
+                rightHeartPiece4.SetActive(false);
+                leftHeartPiece4.SetActive(false);
+            }
+        }
+
+        if(life == 5)
+        {
+            leftHeartPiece1.SetActive(true);
+            rightHeartPiece1.SetActive(true);
+            leftHeartPiece2.SetActive(true);
+            rightHeartPiece2.SetActive(true);
+            leftHeartPiece3.SetActive(true);
+            rightHeartPiece3.SetActive(false);
             emptyHeart1.SetActive(false);
             emptyHeart2.SetActive(false);
             emptyHeart3.SetActive(true);
             if(heartCompleate)
             {
                 emptyHeart4.SetActive(true);
-                rightHeartPiece.SetActive(false);
-                leftHeartPiece.SetActive(false);
+                rightHeartPiece4.SetActive(false);
+                leftHeartPiece4.SetActive(false);
             }
             
         }
 
-        if(life == 1)
+        if(life == 4)
         {
-            heart1.SetActive(true);
-            heart2.SetActive(false);
-            heart3.SetActive(false);
+            leftHeartPiece1.SetActive(true);
+            rightHeartPiece1.SetActive(true);
+            leftHeartPiece2.SetActive(true);
+            rightHeartPiece2.SetActive(true);
+            leftHeartPiece3.SetActive(false);
+            rightHeartPiece3.SetActive(false);
+            emptyHeart1.SetActive(false);
+            emptyHeart2.SetActive(false);
+            emptyHeart3.SetActive(true);
+            if(heartCompleate)
+            {
+                emptyHeart4.SetActive(true);
+                rightHeartPiece4.SetActive(false);
+                leftHeartPiece4.SetActive(false);
+            }
+            
+        }
+
+        if(life == 3)
+        {
+            leftHeartPiece1.SetActive(true);
+            rightHeartPiece1.SetActive(true);
+            leftHeartPiece2.SetActive(true);
+            rightHeartPiece2.SetActive(false);
+            leftHeartPiece3.SetActive(false);
+            rightHeartPiece3.SetActive(false);
             emptyHeart1.SetActive(false);
             emptyHeart2.SetActive(true);
             emptyHeart3.SetActive(true);
             if(heartCompleate)
             {
                 emptyHeart4.SetActive(true);
-                rightHeartPiece.SetActive(false);
-                leftHeartPiece.SetActive(false);
+                rightHeartPiece4.SetActive(false);
+                leftHeartPiece4.SetActive(false);
             }
+            
         }
 
-        if(life <= 0)
+        if(life == 2)
         {
-            heart1.SetActive(false);
-            heart2.SetActive(false);
-            heart3.SetActive(false);
+            leftHeartPiece1.SetActive(true);
+            rightHeartPiece1.SetActive(true);
+            leftHeartPiece2.SetActive(false);
+            rightHeartPiece2.SetActive(false);
+            leftHeartPiece3.SetActive(false);
+            rightHeartPiece3.SetActive(false);
+            emptyHeart1.SetActive(false);
+            emptyHeart2.SetActive(true);
+            emptyHeart3.SetActive(true);
+            if(heartCompleate)
+            {
+                emptyHeart4.SetActive(true);
+                rightHeartPiece4.SetActive(false);
+                leftHeartPiece4.SetActive(false);
+            }
+            
+        }
+
+        if(life == 1)
+        {
+            leftHeartPiece1.SetActive(true);
+            rightHeartPiece1.SetActive(false);
+            leftHeartPiece2.SetActive(false);
+            rightHeartPiece2.SetActive(false);
+            leftHeartPiece3.SetActive(false);
+            rightHeartPiece3.SetActive(false);
             emptyHeart1.SetActive(true);
             emptyHeart2.SetActive(true);
             emptyHeart3.SetActive(true);
             if(heartCompleate)
             {
                 emptyHeart4.SetActive(true);
-                rightHeartPiece.SetActive(false);
-                leftHeartPiece.SetActive(false);
+                rightHeartPiece4.SetActive(false);
+                leftHeartPiece4.SetActive(false);
+            }
+            
+        }
+
+        if(life <= 0)
+        {
+            leftHeartPiece1.SetActive(false);
+            rightHeartPiece1.SetActive(false);
+            leftHeartPiece2.SetActive(false);
+            rightHeartPiece2.SetActive(false);
+            leftHeartPiece3.SetActive(false);
+            rightHeartPiece3.SetActive(false);
+            emptyHeart1.SetActive(true);
+            emptyHeart2.SetActive(true);
+            emptyHeart3.SetActive(true);
+            if(heartCompleate)
+            {
+                emptyHeart4.SetActive(true);
+                rightHeartPiece4.SetActive(false);
+                leftHeartPiece4.SetActive(false);
             }
 
             Dead();
@@ -261,14 +362,14 @@ public class playerLife : MonoBehaviour
 
     private void MaxMinimun()
     {
-        if(life > 3 && !heartCompleate)
+        if(life > 6 && !heartCompleate)
         {
-            life = 3;
+            life = 6;
         }
         
-        if(life > 4 && heartCompleate)
+        if(life > 8 && heartCompleate)
         {
-            life = 4;
+            life = 8;
         }
     }
 
@@ -285,6 +386,7 @@ public class playerLife : MonoBehaviour
         life += 1;
         CheckLife();
         HealingParticle.SetActive(false);
+        PlayerPrefs.SetInt("lifes", life);
     }
 
     IEnumerator Die()
@@ -294,11 +396,11 @@ public class playerLife : MonoBehaviour
         transition = true;
         yield return new WaitForSeconds(1f); 
         save.LoadPosition();
-        life += 4;
+        life += 8;
         CheckLife();
         yield return new WaitForSeconds(1f); 
         transition = false;
-        life += 4;
+        life += 8;
         PM.speed = 5;
     }
 
@@ -309,11 +411,11 @@ public class playerLife : MonoBehaviour
         transition = true;
         yield return new WaitForSeconds(1f); 
         SceneManager.LoadScene(sceneName);  
-        life += 4;
+        life += 8;
         CheckLife();
         yield return new WaitForSeconds(1f); 
         transition = false;
-        life += 4;
+        life += 8;
         PM.speed = 5;
     }
 }

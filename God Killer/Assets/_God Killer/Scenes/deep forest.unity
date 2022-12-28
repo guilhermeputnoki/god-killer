@@ -3893,9 +3893,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a740861801d16744b9bd16eb70a33167, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  equipBar: {fileID: 0}
   HP: {fileID: 898424096}
   takingItem: 0
   heartPieceOnHand: {fileID: 1126331145}
+  EquipSword: 0
 --- !u!114 &75633849
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23548,7 +23550,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.2099994, y: 0.00000029802322, z: -10}
+  m_LocalPosition: {x: 1.2099997, y: 0.00000029802322, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -41636,6 +41638,8 @@ MonoBehaviour:
   secondPerson: 0
   StartBossFight: 0
   bossArena: 0
+  dontAttack: 0
+  teste: 0
 --- !u!4 &790315847
 Transform:
   m_ObjectHideFlags: 0
@@ -49254,7 +49258,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c018b45362fbfba4e91f99135e20b537, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerAnim: {fileID: 75633848}
   Dialogue: {fileID: 954105032}
   heartPiece: {fileID: 1233618973397764361, guid: b32bc06704de36d46b70e233695878f2, type: 3}
   spawn: {fileID: 1018350464}
@@ -49430,6 +49433,7 @@ MonoBehaviour:
   longDialogue: 0
   bossDialogue: 0
   bossFinalDialogue: 0
+  dc: {fileID: 790315846}
 --- !u!82 &954105033
 AudioSource:
   m_ObjectHideFlags: 0
@@ -88266,7 +88270,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1764336790}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.2099994, y: 0.00000029802322, z: -10}
+  m_LocalPosition: {x: 1.2099997, y: 0.00000029802322, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1636189285}

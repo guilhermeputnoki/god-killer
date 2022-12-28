@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: c42df54f685218840bef4c116f03fb68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1084490588605577179
+    second: eletricPuzzle_1
+  - first:
+      213: -8983232146935747143
+    second: eletricPuzzle_2
+  - first:
+      213: -2200482858655459207
+    second: eletricPuzzle_3
+  - first:
+      213: 605985138548003622
+    second: eletricPuzzle_4
+  - first:
+      213: 7955550776259879213
+    second: eletricPuzzle_5
+  - first:
+      213: 5274207925223731708
+    second: eletricPuzzle_6
+  - first:
+      213: 6046738761225437363
+    second: eletricPuzzle_7
+  - first:
+      213: -2747139752868152556
+    second: eletricPuzzle_8
+  - first:
+      213: 4351083917026017720
+    second: eletricPuzzle_9
+  - first:
+      213: -1521984414583764603
+    second: eletricPuzzle_10
+  - first:
+      213: 324296024038808724
+    second: eletricPuzzle_11
+  - first:
+      213: -9106330490170089146
+    second: eletricPuzzle_12
+  - first:
+      213: -3746203725501331770
+    second: eletricPuzzle_13
+  - first:
+      213: 7053019646878250551
+    second: eletricPuzzle_14
+  - first:
+      213: 8695459389791268049
+    second: eletricPuzzle_15
+  - first:
+      213: 6087049134442010620
+    second: eletricPuzzle_16
+  - first:
+      213: 3566928744646261774
+    second: eletricPuzzle_17
+  - first:
+      213: 252163369047781149
+    second: eletricPuzzle_18
+  - first:
+      213: -7726733755935879846
+    second: eletricPuzzle_19
+  - first:
+      213: 6821150302867732946
+    second: eletricPuzzle_20
+  - first:
+      213: 8973947184260205
+    second: eletricPuzzle_21
+  - first:
+      213: -2139804657772099539
+    second: eletricPuzzle_22
+  - first:
+      213: 8100068251126705678
+    second: eletricPuzzle_23
+  - first:
+      213: 3744698478173867776
+    second: eletricPuzzle_24
+  - first:
+      213: 4807033148417322301
+    second: eletricPuzzle_25
+  - first:
+      213: 6628848560258054033
+    second: eletricPuzzle_26
+  - first:
+      213: -4068150663831187860
+    second: eletricPuzzle_27
+  - first:
+      213: -3809882820966575586
+    second: eletricPuzzle_28
+  - first:
+      213: -6218490995211158892
+    second: eletricPuzzle_31
+  - first:
+      213: -4991760124086435014
+    second: eletricPuzzle_32
+  - first:
+      213: 5946000511401423382
+    second: eletricPuzzle_33
+  - first:
+      213: -4445728452645239351
+    second: eletricPuzzle_34
+  - first:
+      213: -464543237468277171
+    second: eletricPuzzle_35
+  - first:
+      213: 880341983248231999
+    second: eletricPuzzle_36
+  - first:
+      213: -6251271612093429427
+    second: eletricPuzzle_37
+  - first:
+      213: 2206154897230844505
+    second: eletricPuzzle_39
+  - first:
+      213: -7077479836494327627
+    second: eletricPuzzle_42
+  - first:
+      213: -7321173562828014576
+    second: eletricPuzzle_46
+  - first:
+      213: -369285384961883654
+    second: eletricPuzzle_48
+  - first:
+      213: -4693419627773110725
+    second: eletricPuzzle_49
+  - first:
+      213: -8226009424028338417
+    second: eletricPuzzle_50
+  - first:
+      213: -1222079185607239122
+    second: eletricPuzzle_51
+  - first:
+      213: 6711880219114054227
+    second: eletricPuzzle_52
+  - first:
+      213: 8262420115962034000
+    second: eletricPuzzle_53
+  - first:
+      213: -7422918823253840706
+    second: eletricPuzzle_56
+  - first:
+      213: 4007397086896854833
+    second: eletricPuzzle_57
+  - first:
+      213: -1725846796023807172
+    second: eletricPuzzle_58
+  - first:
+      213: -343959747774813346
+    second: eletricPuzzle_59
+  - first:
+      213: -361878458988445717
+    second: eletricPuzzle_60
+  - first:
+      213: -7460066524358212623
+    second: eletricPuzzle_61
+  - first:
+      213: 5740110052500896903
+    second: eletricPuzzle_62
+  - first:
+      213: 8507269375740075266
+    second: eletricPuzzle_63
+  - first:
+      213: 7813848921002971850
+    second: eletricPuzzle_0
+  - first:
+      213: 1200862532126514982
+    second: eletricPuzzle_29
+  - first:
+      213: 4850025116979933468
+    second: eletricPuzzle_30
+  - first:
+      213: 5846301696018252644
+    second: eletricPuzzle_38
+  - first:
+      213: -8362466176556123882
+    second: eletricPuzzle_40
+  - first:
+      213: 8346478014142688404
+    second: eletricPuzzle_41
+  - first:
+      213: -6737138068079741726
+    second: eletricPuzzle_43
+  - first:
+      213: 7482592745598816849
+    second: eletricPuzzle_44
+  - first:
+      213: 6941195990370434468
+    second: eletricPuzzle_45
+  - first:
+      213: -8046124093917786084
+    second: eletricPuzzle_47
+  - first:
+      213: -9179289212624195196
+    second: eletricPuzzle_54
+  - first:
+      213: 3626149451167782984
+    second: eletricPuzzle_55
+  - first:
+      213: -2953846513658167370
+    second: eletricPuzzle_64
+  - first:
+      213: -4254649884027386143
+    second: eletricPuzzle_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eletricPuzzle_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 359
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7f618c172ec0f00800000000000000
+      internalID: 1084490588605577179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 359
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd660325f5255380800000000000000
+      internalID: -8983232146935747143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 359
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978518baf705671e0800000000000000
+      internalID: -2200482858655459207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 359
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623d15ad544e86800800000000000000
+      internalID: 605985138548003622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 359
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21ad8bd74bc76e60800000000000000
+      internalID: 7955550776259879213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 359
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1b28ef920c13940800000000000000
+      internalID: 5274207925223731708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 359
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b08d68cdd45ae350800000000000000
+      internalID: 6046738761225437363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 359
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b70f123f230e9d0800000000000000
+      internalID: -2747139752868152556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 359
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1404ef4c7226c30800000000000000
+      internalID: 4351083917026017720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 323
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589cd0f1d33d0eae0800000000000000
+      internalID: -1521984414583764603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 323
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c97e20481208400800000000000000
+      internalID: 324296024038808724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 323
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6416a16aaa0df9180800000000000000
+      internalID: -9106330490170089146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 323
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c68f355f8fc20cc0800000000000000
+      internalID: -3746203725501331770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 323
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7367706100c51e160800000000000000
+      internalID: 7053019646878250551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 323
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dce7579e3a7ca870800000000000000
+      internalID: 8695459389791268049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 323
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7d3ccefea897450800000000000000
+      internalID: 6087049134442010620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 323
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c35cb7bc6408130800000000000000
+      internalID: 3566928744646261774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 323
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f65758f3ddf7300800000000000000
+      internalID: 252163369047781149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 276
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d0c63469025c490800000000000000
+      internalID: -7726733755935879846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 276
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9baf97f0899ae50800000000000000
+      internalID: 6821150302867732946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 276
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64a626e1c1ef1000800000000000000
+      internalID: 8973947184260205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 276
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2884cc3003ed42e0800000000000000
+      internalID: -2139804657772099539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 276
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ea3dc8829396070800000000000000
+      internalID: 8100068251126705678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 276
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fcf76fc67d7f330800000000000000
+      internalID: 3744698478173867776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 276
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d21f20e2306b240800000000000000
+      internalID: 4807033148417322301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_26
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 276
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1977a08f4a66efb50800000000000000
+      internalID: 6628848560258054033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_27
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 276
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e829576860b87c0800000000000000
+      internalID: -4068150663831187860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 237
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e129c6c82c3902bc0800000000000000
+      internalID: -3809882820966575586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 237
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a3977036b73b9a0800000000000000
+      internalID: -6218490995211158892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 237
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a334ed75d94b9bab0800000000000000
+      internalID: -4991760124086435014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 237
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6127f5c36ff648250800000000000000
+      internalID: 5946000511401423382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 237
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5cb3cd6899d42c0800000000000000
+      internalID: -4445728452645239351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_35
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 237
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46b4e3036c9d89f0800000000000000
+      internalID: -464543237468277171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 237
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eaf589e5a973c00800000000000000
+      internalID: 880341983248231999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_37
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 237
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4900b6e6950f39a0800000000000000
+      internalID: -6251271612093429427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_39
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 237
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952dee8b036dd9e10800000000000000
+      internalID: 2206154897230844505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 195
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b014c8369db7cd90800000000000000
+      internalID: -7077479836494327627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 195
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cb7a01f67f56a90800000000000000
+      internalID: -7321173562828014576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 195
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af18a9026e800eaf0800000000000000
+      internalID: -369285384961883654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_49
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 195
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36dcb027bf9ddeb0800000000000000
+      internalID: -4693419627773110725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_50
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 195
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0776c9130857dd80800000000000000
+      internalID: -8226009424028338417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_51
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 195
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a5b7e947d4a0fe0800000000000000
+      internalID: -1222079185607239122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 195
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352a34b8f73652d50800000000000000
+      internalID: 6711880219114054227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_53
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 195
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05775fcb1530aa270800000000000000
+      internalID: 8262420115962034000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 156
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebce46798ae7cf890800000000000000
+      internalID: -7422918823253840706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_57
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 156
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1371c6e1b622d9730800000000000000
+      internalID: 4007397086896854833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_58
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 156
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c334142ab7f8c08e0800000000000000
+      internalID: -1725846796023807172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_59
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 156
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b69d88e620a3bf0800000000000000
+      internalID: -343959747774813346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_60
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 156
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befb02875795afaf0800000000000000
+      internalID: -361878458988445717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_61
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 156
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f388de6505887890800000000000000
+      internalID: -7460066524358212623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_62
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 156
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf6fa2ea7f8af40800000000000000
+      internalID: 5740110052500896903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_63
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 156
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ddb8d7c64ef0670800000000000000
+      internalID: 8507269375740075266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_0
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 195
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac293f0b13e507c60800000000000000
+      internalID: 7813848921002971850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 156
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f1a7b4c125aa010800000000000000
+      internalID: 1200862532126514982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11bf49b520ce4340800000000000000
+      internalID: 4850025116979933468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 81
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4638ee0ea6c322150800000000000000
+      internalID: 5846301696018252644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 81
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6193724915d82fb80800000000000000
+      internalID: -8362466176556123882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 318
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c25964885a4d370800000000000000
+      internalID: 8346478014142688404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 318
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e478593f90e082a0800000000000000
+      internalID: -6737138068079741726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 302
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1521558257287d760800000000000000
+      internalID: 7482592745598816849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 302
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad356a2af4145060800000000000000
+      internalID: 6941195990370434468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 287
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10915b44cc665090800000000000000
+      internalID: -8046124093917786084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_54
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 287
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481b5f6581d9c9080800000000000000
+      internalID: -9179289212624195196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 341
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8485553b6bba25230800000000000000
+      internalID: 3626149451167782984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_64
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 341
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bff068fe34d107d0800000000000000
+      internalID: -2953846513658167370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletricPuzzle_65
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 341
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e604eaf87274f4c0800000000000000
+      internalID: -4254649884027386143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

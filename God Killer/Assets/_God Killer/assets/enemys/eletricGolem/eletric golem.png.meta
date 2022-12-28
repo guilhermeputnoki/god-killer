@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: 66c1eeb1110e1034e8335f22ba41870c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2173304853714553616
+    second: eletric golem_0
+  - first:
+      213: 1668339771844604068
+    second: eletric golem_1
+  - first:
+      213: -8036321672333794610
+    second: eletric golem_2
+  - first:
+      213: -4746475729045080290
+    second: eletric golem_3
+  - first:
+      213: -8545156864948810344
+    second: eletric golem_4
+  - first:
+      213: 4802210867145011365
+    second: eletric golem_5
+  - first:
+      213: -5389903122000091548
+    second: eletric golem_6
+  - first:
+      213: 1524271608036952232
+    second: eletric golem_7
+  - first:
+      213: 2459069479108962422
+    second: eletric golem_8
+  - first:
+      213: 8095603892539192493
+    second: eletric golem_9
+  - first:
+      213: -4900417669839893474
+    second: eletric golem_10
+  - first:
+      213: -120819808664702827
+    second: eletric golem_11
+  - first:
+      213: 7509880821750651885
+    second: eletric golem_12
+  - first:
+      213: -2754972895983223110
+    second: eletric golem_13
+  - first:
+      213: 5101027915018496851
+    second: eletric golem_14
+  - first:
+      213: -7003785601139042723
+    second: eletric golem_15
+  - first:
+      213: 3129295778768762410
+    second: eletric golem_16
+  - first:
+      213: -3640098654000772880
+    second: eletric golem_17
+  - first:
+      213: 2078996844974451999
+    second: eletric golem_18
+  - first:
+      213: 6587904894092830381
+    second: eletric golem_19
+  - first:
+      213: 772193956441350768
+    second: eletric golem_20
+  - first:
+      213: 6559479662926357115
+    second: eletric golem_21
+  - first:
+      213: -148016826649312501
+    second: eletric golem_22
+  - first:
+      213: 2904511274716589015
+    second: eletric golem_23
+  - first:
+      213: 5309584223231226936
+    second: eletric golem_24
+  - first:
+      213: 6506355089297479087
+    second: eletric golem_25
+  - first:
+      213: -1502168630512943710
+    second: eletric golem_26
+  - first:
+      213: -7511021758588184747
+    second: eletric golem_27
+  - first:
+      213: -8483238540932682606
+    second: eletric golem_28
+  - first:
+      213: 102530297215376155
+    second: eletric golem_29
+  - first:
+      213: -7120281184966675276
+    second: eletric golem_30
+  - first:
+      213: -5249765421993836002
+    second: eletric golem_31
+  - first:
+      213: 110151499861787760
+    second: eletric golem_32
+  - first:
+      213: 1762849588008933789
+    second: eletric golem_33
+  - first:
+      213: 5107035442768614317
+    second: eletric golem_34
+  - first:
+      213: -280278983242963926
+    second: eletric golem_35
+  - first:
+      213: 6113030564725098484
+    second: eletric golem_36
+  - first:
+      213: 1311777337959191767
+    second: eletric golem_37
+  - first:
+      213: 6243407916750436708
+    second: eletric golem_38
+  - first:
+      213: 976784409230192670
+    second: eletric golem_39
+  - first:
+      213: 8033456909660127568
+    second: eletric golem_40
+  - first:
+      213: 4122166343283429630
+    second: eletric golem_41
+  - first:
+      213: 6781921457544738229
+    second: eletric golem_42
+  - first:
+      213: 216163344853149119
+    second: eletric golem_43
+  - first:
+      213: 5292069820070503580
+    second: eletric golem_44
+  - first:
+      213: 36848684932699948
+    second: eletric golem_45
+  - first:
+      213: 7998975988096990522
+    second: eletric golem_46
+  - first:
+      213: -7023591504255381565
+    second: eletric golem_47
+  - first:
+      213: 380120690835020686
+    second: eletric golem_48
+  - first:
+      213: -6701027759866045414
+    second: eletric golem_49
+  - first:
+      213: -3394148311183069945
+    second: eletric golem_50
+  - first:
+      213: 8385175859784314869
+    second: eletric golem_51
+  - first:
+      213: 7474785870288220690
+    second: eletric golem_52
+  - first:
+      213: 1859465033472356292
+    second: eletric golem_53
+  - first:
+      213: 9132376701970086175
+    second: eletric golem_54
+  - first:
+      213: -8273848977595226647
+    second: eletric golem_55
+  - first:
+      213: 5303129255614917680
+    second: eletric golem_56
+  - first:
+      213: 2158362020362725965
+    second: eletric golem_57
+  - first:
+      213: 8882130176485772996
+    second: eletric golem_58
+  - first:
+      213: 8775411794896741769
+    second: eletric golem_59
+  - first:
+      213: -1363319348084478451
+    second: eletric golem_60
+  - first:
+      213: 7266128112806428299
+    second: eletric golem_61
+  - first:
+      213: -2116614542760501634
+    second: eletric golem_62
+  - first:
+      213: 4874160880270355218
+    second: eletric golem_63
+  - first:
+      213: -7924993949510479839
+    second: eletric golem_64
+  - first:
+      213: 4156867239025190881
+    second: eletric golem_65
+  - first:
+      213: -6446960767941425134
+    second: eletric golem_66
+  - first:
+      213: 2426435226734954351
+    second: eletric golem_67
+  - first:
+      213: 6761088478782203628
+    second: eletric golem_68
+  - first:
+      213: -197335863078752426
+    second: eletric golem_69
+  - first:
+      213: 7565468274746886861
+    second: eletric golem_70
+  - first:
+      213: 3204587240886945216
+    second: eletric golem_71
+  - first:
+      213: -9016732922065000858
+    second: eletric golem_72
+  - first:
+      213: -5395314213921182234
+    second: eletric golem_73
+  - first:
+      213: -3116987267524343770
+    second: eletric golem_74
+  - first:
+      213: 1717038560234115712
+    second: eletric golem_75
+  - first:
+      213: -4005377484323044720
+    second: eletric golem_76
+  - first:
+      213: -9204012928354785601
+    second: eletric golem_77
+  - first:
+      213: 4691942118876757324
+    second: eletric golem_78
+  - first:
+      213: -2546483813032737249
+    second: eletric golem_79
+  - first:
+      213: 8329987750900657554
+    second: eletric golem_80
+  - first:
+      213: -7188062803319928649
+    second: eletric golem_81
+  - first:
+      213: 1124266494610722763
+    second: eletric golem_82
+  - first:
+      213: -8100875931049194937
+    second: eletric golem_83
+  - first:
+      213: 3810090795981357459
+    second: eletric golem_84
+  - first:
+      213: 24154608891185574
+    second: eletric golem_85
+  - first:
+      213: 7823899465591122984
+    second: eletric golem_86
+  - first:
+      213: 6848398321671066961
+    second: eletric golem_87
+  - first:
+      213: -5010069351004479888
+    second: eletric golem_88
+  - first:
+      213: -1706578025638151401
+    second: eletric golem_89
+  - first:
+      213: -6348005135398803349
+    second: eletric golem_90
+  - first:
+      213: -4747378843643170078
+    second: eletric golem_91
+  - first:
+      213: -8408080823079324707
+    second: eletric golem_92
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eletric golem_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 509
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bc942ff31292e10800000000000000
+      internalID: 2173304853714553616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 509
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a03479ee22272710800000000000000
+      internalID: 1668339771844604068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 509
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec265cb6400497090800000000000000
+      internalID: -8036321672333794610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 509
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17314be871212eb0800000000000000
+      internalID: -4746475729045080290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 509
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d4cb20b11896980800000000000000
+      internalID: -8545156864948810344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 509
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0f2b82751e4a240800000000000000
+      internalID: 4802210867145011365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 509
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4666a6fdaa73335b0800000000000000
+      internalID: -5389903122000091548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 458
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8814a93fc472510800000000000000
+      internalID: 1524271608036952232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 458
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6786b4c99ae502220800000000000000
+      internalID: 2459069479108962422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 458
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4711119dc595070800000000000000
+      internalID: 8095603892539192493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 458
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c4522c7183efbb0800000000000000
+      internalID: -4900417669839893474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 458
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590b5be2603c25ef0800000000000000
+      internalID: -120819808664702827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 458
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb57fd71d4783860800000000000000
+      internalID: 7509880821750651885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 458
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe37116fbe54c9d0800000000000000
+      internalID: -2754972895983223110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 458
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b6700ccdd7ac640800000000000000
+      internalID: 5101027915018496851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 414
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d569c197a1e8dce90800000000000000
+      internalID: -7003785601139042723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 414
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2634aa5eed7d6b20800000000000000
+      internalID: 3129295778768762410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 414
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f808ec6f85cb7dc0800000000000000
+      internalID: -3640098654000772880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 414
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d2cd19d941adc10800000000000000
+      internalID: 2078996844974451999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 414
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6e572d890fc6b50800000000000000
+      internalID: 6587904894092830381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 414
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e367ef4267ba00800000000000000
+      internalID: 772193956441350768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 414
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72ef14fff3f70b50800000000000000
+      internalID: 6559479662926357115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 366
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0389cafa7322fdf0800000000000000
+      internalID: -148016826649312501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 366
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db69979d95ee4820800000000000000
+      internalID: 2904511274716589015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 366
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83437ba38be6fa940800000000000000
+      internalID: 5309584223231226936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 366
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa591284b773b4a50800000000000000
+      internalID: 6506355089297479087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 366
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad7a81e699372be0800000000000000
+      internalID: -1502168630512943710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 366
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5571f13718d73c790800000000000000
+      internalID: -7511021758588184747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_28
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 366
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cedce3e7b754a80800000000000000
+      internalID: -8483238540932682606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 366
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bdc3813c24c6100800000000000000
+      internalID: 102530297215376155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 312
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4f925bcfdaf2d90800000000000000
+      internalID: -7120281184966675276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 312
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12cde3c9261527b0800000000000000
+      internalID: -5249765421993836002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 312
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0740dbc9436578100800000000000000
+      internalID: 110151499861787760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 312
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9957bd3c56e67810800000000000000
+      internalID: 1762849588008933789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 312
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da39d8d4da5dfd640800000000000000
+      internalID: 5107035442768614317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 312
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24abcdefbf3c1cf0800000000000000
+      internalID: -280278983242963926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 312
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f78b8f09e8d5d450800000000000000
+      internalID: 6113030564725098484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 312
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4177de98e543210800000000000000
+      internalID: 1311777337959191767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_38
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 312
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46975c9db6a05a650800000000000000
+      internalID: 6243407916750436708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 269
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e103e46be3c3e8d00800000000000000
+      internalID: 976784409230192670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_40
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 269
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05103ba0f729c7f60800000000000000
+      internalID: 8033456909660127568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 269
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0da74f270e43930800000000000000
+      internalID: 4122166343283429630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 269
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5bd8b22a93e1e50800000000000000
+      internalID: 6781921457544738229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_43
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 269
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5ae67ba67fff200800000000000000
+      internalID: 216163344853149119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 269
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c942ed77675317940800000000000000
+      internalID: 5292069820070503580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 217
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c279ad70fa9e28000800000000000000
+      internalID: 36848684932699948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_46
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 217
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d7661e742120f60800000000000000
+      internalID: 7998975988096990522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 217
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf086d4db0378e90800000000000000
+      internalID: -7023591504255381565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_48
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 217
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b5ffc11c5764500800000000000000
+      internalID: 380120690835020686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 217
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c172781ca2103a0800000000000000
+      internalID: -6701027759866045414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 217
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70de0fc081095e0d0800000000000000
+      internalID: -3394148311183069945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_51
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 217
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffef9594012e5470800000000000000
+      internalID: 8385175859784314869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_52
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 217
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21273aa5526cbb760800000000000000
+      internalID: 7474785870288220690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_53
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 217
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf216898952ec910800000000000000
+      internalID: 1859465033472356292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_54
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 217
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19fafb9938bcbe70800000000000000
+      internalID: 9132376701970086175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_55
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 217
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5253d01326d2d80800000000000000
+      internalID: -8273848977595226647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_56
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 217
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ca8e6f5ff789940800000000000000
+      internalID: 5303129255614917680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_57
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 217
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a2a6072da04fd10800000000000000
+      internalID: 2158362020362725965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_58
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce4632065aa34b70800000000000000
+      internalID: 8882130176485772996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_59
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985e798888688c970800000000000000
+      internalID: 8775411794896741769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_60
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 175
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ee10ea644841de0800000000000000
+      internalID: -1363319348084478451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_61
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 175
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e7e40650976d460800000000000000
+      internalID: 7266128112806428299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_62
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 175
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e9554a94640a2e0800000000000000
+      internalID: -2116614542760501634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_63
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 175
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bae960f7f74a340800000000000000
+      internalID: 4874160880270355218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 175
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120de48cdf3c40290800000000000000
+      internalID: -7924993949510479839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_65
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 175
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e72e88dab820b930800000000000000
+      internalID: 4156867239025190881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_66
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 175
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218c8f9c65bc786a0800000000000000
+      internalID: -6446960767941425134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_67
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 132
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f670800abfd6ca120800000000000000
+      internalID: 2426435226734954351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_68
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 132
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6acc0562634dd50800000000000000
+      internalID: 6761088478782203628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_69
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 130
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65feebbf31ce24df0800000000000000
+      internalID: -197335863078752426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_70
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 132
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca86c3ff41fdf860800000000000000
+      internalID: 7565468274746886861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_71
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 132
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5c0d0fd1bf87c20800000000000000
+      internalID: 3204587240886945216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_72
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 132
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666eeb91e212ed280800000000000000
+      internalID: -9016732922065000858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_73
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 80
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edac9bde4eff15b0800000000000000
+      internalID: -5395314213921182234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_74
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 80
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628cbcd389c3eb4d0800000000000000
+      internalID: -3116987267524343770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_75
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 80
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0821768297524d710800000000000000
+      internalID: 1717038560234115712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_76
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 80
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092c39f366a0a68c0800000000000000
+      internalID: -4005377484323044720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb66f41b107c44080800000000000000
+      internalID: -9204012928354785601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_78
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 80
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4db7568f702d1140800000000000000
+      internalID: 4691942118876757324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_79
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 80
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16c6e1c67219acd0800000000000000
+      internalID: -2546483813032737249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_80
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 80
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29de9cba9bf0a9370800000000000000
+      internalID: 8329987750900657554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_81
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 80
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8cae0e6fede3c90800000000000000
+      internalID: -7188062803319928649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_82
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 80
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf45249b623a9f00800000000000000
+      internalID: 1124266494610722763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_83
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 80
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a0d40d248e39f80800000000000000
+      internalID: -8100875931049194937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_84
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 80
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3914478646920e430800000000000000
+      internalID: 3810090795981357459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_85
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 80
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9c5a22d70d55000800000000000000
+      internalID: 24154608891185574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_86
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c6de47c13149c60800000000000000
+      internalID: 7823899465591122984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 41
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155d59b3df56a0f50800000000000000
+      internalID: 6848398321671066961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_88
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e5e414878a87ab0800000000000000
+      internalID: -5010069351004479888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_89
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 41
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bb958d3540158e0800000000000000
+      internalID: -1706578025638151401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_90
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 41
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e23866fa57e7a0800000000000000
+      internalID: -6348005135398803349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 41
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2b17a281ced1eb0800000000000000
+      internalID: -4747378843643170078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eletric golem_92
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 41
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd335911a0f705b80800000000000000
+      internalID: -8408080823079324707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

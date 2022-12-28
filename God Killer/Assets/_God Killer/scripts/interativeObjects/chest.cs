@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class chest : MonoBehaviour
 {
-    public playerAnimations PlayerAnim;
+    private playerAnimations PlayerAnim;
 
     public dialogue Dialogue;
 
@@ -20,6 +20,7 @@ public class chest : MonoBehaviour
     void Start()
     {
         anim = GetComponent<Animator>();
+        PlayerAnim = FindObjectOfType<playerAnimations>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

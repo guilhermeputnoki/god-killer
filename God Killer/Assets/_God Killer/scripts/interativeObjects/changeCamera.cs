@@ -7,6 +7,8 @@ public class changeCamera : MonoBehaviour
 {
     public bool mainCamera = true;
     public bool bossFight;
+    public bool needConsition;
+    public eletricSwitch condition;
 
     [SerializeField]
     private CinemachineVirtualCamera vcam1;
@@ -18,18 +20,45 @@ public class changeCamera : MonoBehaviour
 
     private void ChangePriority()
     {
-        if(mainCamera)
+        if(needConsition == true)
         {
-            vcam1.Priority = 0;
-            vcam2.Priority = 1;
+            if(condition.active == false)
+            {
+                bc.enabled = false;
+            }   
+            if(condition.active == true)
+            {
+                bc.enabled = true;
+                if(mainCamera)
+                {
+                    vcam1.Priority = 0;
+                    vcam2.Priority = 1;
+                }
+                else
+                {
+                    vcam1.Priority = 1;
+                    vcam2.Priority = 0;
+                }
+
+                mainCamera = !mainCamera;
+                StartCoroutine(TurnOf());
+            }  
         }
         else
         {
-            vcam1.Priority = 1;
-            vcam2.Priority = 0;
-        }
+            if(mainCamera)
+            {
+                vcam1.Priority = 0;
+                vcam2.Priority = 1;
+            }
+            else
+            {
+                vcam1.Priority = 1;
+                vcam2.Priority = 0;
+            }
 
-        mainCamera = !mainCamera;
+            mainCamera = !mainCamera;
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -53,5 +82,12 @@ public class changeCamera : MonoBehaviour
                 bc.enabled = false;
             }   
         }
+    }
+
+    IEnumerator TurnOf()
+    {
+        yield return new WaitForSeconds(1f);
+        bc.enabled = false;
+        yield return new WaitForSeconds(1f);
     }
 }

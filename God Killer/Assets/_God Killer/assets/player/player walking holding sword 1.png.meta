@@ -1,0 +1,2463 @@
+fileFormatVersion: 2
+guid: 22d8e48ed3607f049a3cee9b5e567d3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3167556676582081517
+    second: player walking holding sword 1_0
+  - first:
+      213: 5942177999377683949
+    second: player walking holding sword 1_1
+  - first:
+      213: -5126439694381866480
+    second: player walking holding sword 1_2
+  - first:
+      213: -904645278512468539
+    second: player walking holding sword 1_3
+  - first:
+      213: -2237799125037916547
+    second: player walking holding sword 1_4
+  - first:
+      213: 677715023098741360
+    second: player walking holding sword 1_5
+  - first:
+      213: -8484539607808882857
+    second: player walking holding sword 1_6
+  - first:
+      213: -8154359401092469323
+    second: player walking holding sword 1_7
+  - first:
+      213: 314930850632635003
+    second: player walking holding sword 1_8
+  - first:
+      213: 1748523986627621922
+    second: player walking holding sword 1_9
+  - first:
+      213: 3832172065235126812
+    second: player walking holding sword 1_10
+  - first:
+      213: 1115550273210659526
+    second: player walking holding sword 1_11
+  - first:
+      213: 4115287527268303603
+    second: player walking holding sword 1_12
+  - first:
+      213: -4947199038635078473
+    second: player walking holding sword 1_13
+  - first:
+      213: -3556279365148215451
+    second: player walking holding sword 1_14
+  - first:
+      213: 3130786299061568977
+    second: player walking holding sword 1_15
+  - first:
+      213: 5836832427215482812
+    second: player walking holding sword 1_16
+  - first:
+      213: 2018548779972884933
+    second: player walking holding sword 1_17
+  - first:
+      213: 477923609616326743
+    second: player walking holding sword 1_18
+  - first:
+      213: -9133443176602256354
+    second: player walking holding sword 1_19
+  - first:
+      213: -444290753806492502
+    second: player walking holding sword 1_20
+  - first:
+      213: 1669298490069830105
+    second: player walking holding sword 1_21
+  - first:
+      213: 1677842075988153370
+    second: player walking holding sword 1_22
+  - first:
+      213: 8789086275726686816
+    second: player walking holding sword 1_23
+  - first:
+      213: 77341724728341363
+    second: player walking holding sword 1_24
+  - first:
+      213: -5856871928918012538
+    second: player walking holding sword 1_25
+  - first:
+      213: -8414867323808608949
+    second: player walking holding sword 1_26
+  - first:
+      213: -6481784323164979390
+    second: player walking holding sword 1_27
+  - first:
+      213: -5918207408113695149
+    second: player walking holding sword 1_28
+  - first:
+      213: -554657341672439773
+    second: player walking holding sword 1_29
+  - first:
+      213: -4165490856410600942
+    second: player walking holding sword 1_30
+  - first:
+      213: -8918276396014041366
+    second: player walking holding sword 1_31
+  - first:
+      213: 6621755028948525119
+    second: player walking holding sword 1_32
+  - first:
+      213: -5267708127798293502
+    second: player walking holding sword 1_33
+  - first:
+      213: 4118217812978814423
+    second: player walking holding sword 1_34
+  - first:
+      213: 9186141171519848243
+    second: player walking holding sword 1_35
+  - first:
+      213: -2309636190130421808
+    second: player walking holding sword 1_36
+  - first:
+      213: 8919435426574256438
+    second: player walking holding sword 1_37
+  - first:
+      213: -7852032408731852366
+    second: player walking holding sword 1_38
+  - first:
+      213: -8558834305456704885
+    second: player walking holding sword 1_39
+  - first:
+      213: -7761529436322595728
+    second: player walking holding sword 1_40
+  - first:
+      213: 2671122062338297512
+    second: player walking holding sword 1_41
+  - first:
+      213: -7000907745956074177
+    second: player walking holding sword 1_42
+  - first:
+      213: 1079437803892596026
+    second: player walking holding sword 1_43
+  - first:
+      213: -2651040722339957967
+    second: player walking holding sword 1_44
+  - first:
+      213: 4607442430517560767
+    second: player walking holding sword 1_45
+  - first:
+      213: -3242882023370566617
+    second: player walking holding sword 1_46
+  - first:
+      213: 8055147082146353491
+    second: player walking holding sword 1_47
+  - first:
+      213: -1328886128930951703
+    second: player walking holding sword 1_48
+  - first:
+      213: -2505501346955530371
+    second: player walking holding sword 1_49
+  - first:
+      213: 938552909109324407
+    second: player walking holding sword 1_50
+  - first:
+      213: -7430655997393268355
+    second: player walking holding sword 1_51
+  - first:
+      213: 6220685099535590988
+    second: player walking holding sword 1_52
+  - first:
+      213: -1432081363631595294
+    second: player walking holding sword 1_53
+  - first:
+      213: 5028173457333554872
+    second: player walking holding sword 1_54
+  - first:
+      213: 5570883136935155029
+    second: player walking holding sword 1_55
+  - first:
+      213: -5127445899309620159
+    second: player walking holding sword 1_56
+  - first:
+      213: -7407918888040397503
+    second: player walking holding sword 1_57
+  - first:
+      213: -6670574191515410967
+    second: player walking holding sword 1_58
+  - first:
+      213: 485654670290759847
+    second: player walking holding sword 1_59
+  - first:
+      213: 5947296273710402533
+    second: player walking holding sword 1_60
+  - first:
+      213: -6962598418202060501
+    second: player walking holding sword 1_61
+  - first:
+      213: 5506082209921860101
+    second: player walking holding sword 1_62
+  - first:
+      213: -6914020591017379831
+    second: player walking holding sword 1_63
+  - first:
+      213: -7390540562219014166
+    second: player walking holding sword 1_64
+  - first:
+      213: -6639413695235917357
+    second: player walking holding sword 1_65
+  - first:
+      213: -580768462642730283
+    second: player walking holding sword 1_66
+  - first:
+      213: 3625662236082616136
+    second: player walking holding sword 1_67
+  - first:
+      213: 8149173967669692976
+    second: player walking holding sword 1_68
+  - first:
+      213: -2260880470687869279
+    second: player walking holding sword 1_69
+  - first:
+      213: 2697137020067198124
+    second: player walking holding sword 1_70
+  - first:
+      213: -9015931760899169574
+    second: player walking holding sword 1_71
+  - first:
+      213: -618158814116589027
+    second: player walking holding sword 1_72
+  - first:
+      213: 7747154019212345194
+    second: player walking holding sword 1_73
+  - first:
+      213: 8329561473737845365
+    second: player walking holding sword 1_74
+  - first:
+      213: 4034200249759197750
+    second: player walking holding sword 1_75
+  - first:
+      213: -3889971901224810086
+    second: player walking holding sword 1_76
+  - first:
+      213: -2871150867983752629
+    second: player walking holding sword 1_77
+  - first:
+      213: -4789847835346290498
+    second: player walking holding sword 1_78
+  - first:
+      213: 3447999373897620628
+    second: player walking holding sword 1_79
+  - first:
+      213: -3052964604365424850
+    second: player walking holding sword 1_80
+  - first:
+      213: 7448522347373577930
+    second: player walking holding sword 1_81
+  - first:
+      213: -7766628023697328903
+    second: player walking holding sword 1_82
+  - first:
+      213: -2398623426691374289
+    second: player walking holding sword 1_83
+  - first:
+      213: 7832837398581997733
+    second: player walking holding sword 1_84
+  - first:
+      213: -2252568180764349909
+    second: player walking holding sword 1_85
+  - first:
+      213: 7761916146140818675
+    second: player walking holding sword 1_86
+  - first:
+      213: 6161502691544299009
+    second: player walking holding sword 1_87
+  - first:
+      213: -385353524012639698
+    second: player walking holding sword 1_88
+  - first:
+      213: 8366628405780692702
+    second: player walking holding sword 1_89
+  - first:
+      213: -3561241414461456316
+    second: player walking holding sword 1_90
+  - first:
+      213: 4243752578634557794
+    second: player walking holding sword 1_91
+  - first:
+      213: -2705589505044705758
+    second: player walking holding sword 1_92
+  - first:
+      213: -2589796620689009196
+    second: player walking holding sword 1_93
+  - first:
+      213: 1946497163607071127
+    second: player walking holding sword 1_94
+  - first:
+      213: -1831819737955620398
+    second: player walking holding sword 1_95
+  - first:
+      213: -4102507004511526607
+    second: player walking holding sword 1_96
+  - first:
+      213: -6999017132026007139
+    second: player walking holding sword 1_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player walking holding sword 1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 269
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c786e2cf39a04d0800000000000000
+      internalID: -3167556676582081517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 228
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de55c0d486bd67250800000000000000
+      internalID: 5942177999377683949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 228
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01228ed424a3bd8b0800000000000000
+      internalID: -5126439694381866480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 228
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cda78689ed0273f0800000000000000
+      internalID: -904645278512468539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 228
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e5f695d8db1f0e0800000000000000
+      internalID: -2237799125037916547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 228
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0720fba093ab76900800000000000000
+      internalID: 677715023098741360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 228
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c1d10e2cd04a80800000000000000
+      internalID: -8484539607808882857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 228
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd240f0455e5de80800000000000000
+      internalID: -8154359401092469323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 228
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7215c8a0fbde5400800000000000000
+      internalID: 314930850632635003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 228
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22470304d41044810800000000000000
+      internalID: 1748523986627621922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 228
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ac38a803c9e2530800000000000000
+      internalID: 3832172065235126812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 228
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2bfc3201b3b7f00800000000000000
+      internalID: 1115550273210659526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 228
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f24c6bc3307c1930800000000000000
+      internalID: 4115287527268303603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 196
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc800d8fa4085bb0800000000000000
+      internalID: -4947199038635078473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 196
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567f94662ce85aec0800000000000000
+      internalID: -3556279365148215451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 196
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d589372d89c27b20800000000000000
+      internalID: 3130786299061568977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 196
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfe8adea28900150800000000000000
+      internalID: 5836832427215482812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 196
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9f410bb63530c10800000000000000
+      internalID: 2018548779972884933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 196
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75024f4adfce1a600800000000000000
+      internalID: 477923609616326743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 196
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c386a62dd7f3180800000000000000
+      internalID: -9133443176602256354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 196
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac9f52d9ef85d9f0800000000000000
+      internalID: -444290753806492502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 196
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d945b4e12a8a2710800000000000000
+      internalID: 1669298490069830105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 196
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a145a708a74e84710800000000000000
+      internalID: 1677842075988153370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 196
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a33f4b66b19f970800000000000000
+      internalID: 8789086275726686816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 196
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373bfbc83e5c21100800000000000000
+      internalID: 77341724728341363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 164
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d82edf20638bea0800000000000000
+      internalID: -5856871928918012538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 164
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d885cb0c2683b80800000000000000
+      internalID: -8414867323808608949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 164
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f3e0300831c06a0800000000000000
+      internalID: -6481784323164979390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 164
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3564c44e7bd4edda0800000000000000
+      internalID: -5918207408113695149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 164
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3204d8126167d48f0800000000000000
+      internalID: -554657341672439773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 164
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a2284c2243136c0800000000000000
+      internalID: -4165490856410600942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 164
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae605de6edaeb3480800000000000000
+      internalID: -8918276396014041366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 164
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3022228d1335eb50800000000000000
+      internalID: 6621755028948525119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 164
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c05260e5755e6b0800000000000000
+      internalID: -5267708127798293502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_34
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 164
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddc94a1849d62930800000000000000
+      internalID: 4118217812978814423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_35
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 164
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ff709a9babb7f70800000000000000
+      internalID: 9186141171519848243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_36
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 164
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfb3ee3f1682ffd0800000000000000
+      internalID: -2309636190130421808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6394ef5634338cb70800000000000000
+      internalID: 8919435426574256438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_38
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1eea8402af70390800000000000000
+      internalID: -7852032408731852366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8273dbbb89e83980800000000000000
+      internalID: -8558834305456704885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_40
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cf04a9912894490800000000000000
+      internalID: -7761529436322595728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae026d0d5bb11520800000000000000
+      internalID: 2671122062338297512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_42
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 132
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3de1095f77c7de90800000000000000
+      internalID: -7000907745956074177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 132
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d552aa6feeafe00800000000000000
+      internalID: 1079437803892596026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_44
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 132
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133f4d3428c953bd0800000000000000
+      internalID: -2651040722339957967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_45
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5cf02ba7ce0ff30800000000000000
+      internalID: 4607442430517560767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_46
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 132
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7245f743bf7fef2d0800000000000000
+      internalID: -3242882023370566617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_47
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 132
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3519bdcd791a9cf60800000000000000
+      internalID: 8055147082146353491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_48
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 132
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed60224b19de8de0800000000000000
+      internalID: -1328886128930951703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fe376bccbaa3dd0800000000000000
+      internalID: -2505501346955530371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_50
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aee5ee5e8660d00800000000000000
+      internalID: 938552909109324407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d719f3b5db101e890800000000000000
+      internalID: -7430655997393268355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c466261b320545650800000000000000
+      internalID: 6220685099535590988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e028475699302ce0800000000000000
+      internalID: -1432081363631595294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_54
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be0a697e19a7c540800000000000000
+      internalID: 5028173457333554872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_55
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555db3e72b0cf4d40800000000000000
+      internalID: 5570883136935155029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_56
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144ed96fe17a7d8b0800000000000000
+      internalID: -5127445899309620159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_57
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14502792509c13990800000000000000
+      internalID: -7407918888040397503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_58
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edd5d27d1c5d63a0800000000000000
+      internalID: -6670574191515410967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_59
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0b03a79546db600800000000000000
+      internalID: 485654670290759847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_60
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb4388637a098250800000000000000
+      internalID: 5947296273710402533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 68
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299e59c0a1ef5f90800000000000000
+      internalID: -6962598418202060501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 68
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5028d72f898896c40800000000000000
+      internalID: 5506082209921860101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_63
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 68
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9083cae87e67c00a0800000000000000
+      internalID: -6914020591017379831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_64
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 68
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7e1d2f3868f6990800000000000000
+      internalID: -7390540562219014166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_65
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 68
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9799adb601cd3a0800000000000000
+      internalID: -6639413695235917357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_66
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 68
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da2e670922b0f7f0800000000000000
+      internalID: -580768462642730283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_67
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 68
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847b0491890f05230800000000000000
+      internalID: 3625662236082616136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_68
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 68
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a00d32c8ea71170800000000000000
+      internalID: 8149173967669692976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_69
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 68
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a61809c03dbf90e0800000000000000
+      internalID: -2260880470687869279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_70
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 68
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca439a764d72e6520800000000000000
+      internalID: 2697137020067198124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_72
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 68
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ddcd65dbdb67f0800000000000000
+      internalID: -618158814116589027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 68
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f3467c88b638b60800000000000000
+      internalID: 7747154019212345194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a6ce8470c889370800000000000000
+      internalID: 8329561473737845365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_75
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 36
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a60b7c0cb5cf730800000000000000
+      internalID: 4034200249759197750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_76
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 36
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a998e317a2b040ac0800000000000000
+      internalID: -3889971901224810086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_77
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4226416f7f9728d0800000000000000
+      internalID: -2871150867983752629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_78
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 36
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8b20e75ca078db0800000000000000
+      internalID: -4789847835346290498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_79
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 36
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cdfea8921c9df20800000000000000
+      internalID: 3447999373897620628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 36
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2735fc1ed0b1a5d0800000000000000
+      internalID: -3052964604365424850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_81
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 36
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6c2c86c977e5760800000000000000
+      internalID: 7448522347373577930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_82
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 36
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f43de836f4673490800000000000000
+      internalID: -7766628023697328903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_83
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 36
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23612ea3b066bed0800000000000000
+      internalID: -2398623426691374289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_84
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 36
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0ffd52d14d3bc60800000000000000
+      internalID: 7832837398581997733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_85
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 36
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a61399c254db0e0800000000000000
+      internalID: -2252568180764349909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fca71b4c9dd7bb60800000000000000
+      internalID: 7761916146140818675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_87
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1067c1c8d0e028550800000000000000
+      internalID: 6161502691544299009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_88
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a1848f203f6aaf0800000000000000
+      internalID: -385353524012639698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_89
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 4
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede304ee43c3c1470800000000000000
+      internalID: 8366628405780692702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_90
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4408d934dcde39ec0800000000000000
+      internalID: -3561241414461456316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_91
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 4
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26929246c76d4ea30800000000000000
+      internalID: 4243752578634557794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_92
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e09c31ea0d37ad0800000000000000
+      internalID: -2705589505044705758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_93
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 4
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5135fd1b13f0cd0800000000000000
+      internalID: -2589796620689009196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_94
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799da197bd8530b10800000000000000
+      internalID: 1946497163607071127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_95
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 4
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d92b9a57a11496e0800000000000000
+      internalID: -1831819737955620398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_96
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 4
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131e98b8d97f017c0800000000000000
+      internalID: -4102507004511526607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking holding sword 1_97
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9177b4300f7ede90800000000000000
+      internalID: -6999017132026007139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

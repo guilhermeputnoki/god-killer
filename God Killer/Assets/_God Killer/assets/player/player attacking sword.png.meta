@@ -1,0 +1,2724 @@
+fileFormatVersion: 2
+guid: 38efab89585be0c43b40008dc459dc72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1927678337793137464
+    second: player attacking sword_0
+  - first:
+      213: 6005830731415463880
+    second: player attacking sword_1
+  - first:
+      213: -1411495437541324648
+    second: player attacking sword_2
+  - first:
+      213: -2952553651872915158
+    second: player attacking sword_3
+  - first:
+      213: 7237889979096326264
+    second: player attacking sword_4
+  - first:
+      213: -1558693649666869581
+    second: player attacking sword_5
+  - first:
+      213: -4369067501514942822
+    second: player attacking sword_6
+  - first:
+      213: -8375134530700547738
+    second: player attacking sword_7
+  - first:
+      213: 3749872210518107093
+    second: player attacking sword_8
+  - first:
+      213: -5362729798626071936
+    second: player attacking sword_9
+  - first:
+      213: 6585612154663022100
+    second: player attacking sword_10
+  - first:
+      213: -7460049398239332731
+    second: player attacking sword_11
+  - first:
+      213: 1269851613392166958
+    second: player attacking sword_12
+  - first:
+      213: -879005796930132879
+    second: player attacking sword_13
+  - first:
+      213: -7417382884672545116
+    second: player attacking sword_14
+  - first:
+      213: 7041543701216877043
+    second: player attacking sword_15
+  - first:
+      213: -4554948782016228293
+    second: player attacking sword_16
+  - first:
+      213: -3239807528357384950
+    second: player attacking sword_17
+  - first:
+      213: -2835276279447336870
+    second: player attacking sword_18
+  - first:
+      213: 2141536202252616113
+    second: player attacking sword_19
+  - first:
+      213: 948492855229331371
+    second: player attacking sword_20
+  - first:
+      213: 177709090947091847
+    second: player attacking sword_21
+  - first:
+      213: 6699632252193501311
+    second: player attacking sword_22
+  - first:
+      213: 7953384315882317873
+    second: player attacking sword_23
+  - first:
+      213: -8435486158176252704
+    second: player attacking sword_24
+  - first:
+      213: -6823431449586481723
+    second: player attacking sword_25
+  - first:
+      213: 6316534834842166195
+    second: player attacking sword_26
+  - first:
+      213: -354822566016262828
+    second: player attacking sword_27
+  - first:
+      213: -2698376334730895955
+    second: player attacking sword_28
+  - first:
+      213: -1889554756905824340
+    second: player attacking sword_29
+  - first:
+      213: -6550395085442168458
+    second: player attacking sword_30
+  - first:
+      213: -1044564000291721411
+    second: player attacking sword_31
+  - first:
+      213: 12630278010260582
+    second: player attacking sword_32
+  - first:
+      213: 6797872068959549749
+    second: player attacking sword_33
+  - first:
+      213: -6978443252420772697
+    second: player attacking sword_34
+  - first:
+      213: 6825399116784140270
+    second: player attacking sword_35
+  - first:
+      213: -8467488402720608306
+    second: player attacking sword_36
+  - first:
+      213: 4032983092224835652
+    second: player attacking sword_37
+  - first:
+      213: -6760693179882112744
+    second: player attacking sword_38
+  - first:
+      213: 5890091765631926179
+    second: player attacking sword_39
+  - first:
+      213: 2402010566329737268
+    second: player attacking sword_40
+  - first:
+      213: 5159560351766790778
+    second: player attacking sword_41
+  - first:
+      213: 111250067125123981
+    second: player attacking sword_42
+  - first:
+      213: 6285806732740754862
+    second: player attacking sword_43
+  - first:
+      213: -8146350084257869020
+    second: player attacking sword_44
+  - first:
+      213: 3908883772222457549
+    second: player attacking sword_45
+  - first:
+      213: 5030895922448827190
+    second: player attacking sword_46
+  - first:
+      213: 2417065406041949440
+    second: player attacking sword_47
+  - first:
+      213: 156246433793466166
+    second: player attacking sword_48
+  - first:
+      213: -2121415045302096523
+    second: player attacking sword_49
+  - first:
+      213: 8916299632206039576
+    second: player attacking sword_50
+  - first:
+      213: 8275903198153161076
+    second: player attacking sword_51
+  - first:
+      213: -5084300277469064018
+    second: player attacking sword_52
+  - first:
+      213: -8592195898756285556
+    second: player attacking sword_53
+  - first:
+      213: 8630947599748689877
+    second: player attacking sword_54
+  - first:
+      213: -8950563130547712884
+    second: player attacking sword_55
+  - first:
+      213: 6317861828952419089
+    second: player attacking sword_56
+  - first:
+      213: -4167455819011935297
+    second: player attacking sword_57
+  - first:
+      213: 2882153698704118508
+    second: player attacking sword_58
+  - first:
+      213: 1439737609261041651
+    second: player attacking sword_59
+  - first:
+      213: -528466813430883685
+    second: player attacking sword_60
+  - first:
+      213: -8820644660025783942
+    second: player attacking sword_61
+  - first:
+      213: 392615586789433572
+    second: player attacking sword_62
+  - first:
+      213: -2738318128246544863
+    second: player attacking sword_63
+  - first:
+      213: 1530933181881554673
+    second: player attacking sword_64
+  - first:
+      213: -6888479043642895423
+    second: player attacking sword_65
+  - first:
+      213: -2291505885118698642
+    second: player attacking sword_66
+  - first:
+      213: 8256237643625599843
+    second: player attacking sword_67
+  - first:
+      213: 4579736052417852670
+    second: player attacking sword_68
+  - first:
+      213: 4847491887863009810
+    second: player attacking sword_69
+  - first:
+      213: -2754223039848478148
+    second: player attacking sword_70
+  - first:
+      213: 8370200494081067853
+    second: player attacking sword_71
+  - first:
+      213: 7967669718053789027
+    second: player attacking sword_72
+  - first:
+      213: -2716183561970465362
+    second: player attacking sword_73
+  - first:
+      213: 4004620032229768816
+    second: player attacking sword_74
+  - first:
+      213: 3946387124331235664
+    second: player attacking sword_75
+  - first:
+      213: -2331680900333890624
+    second: player attacking sword_76
+  - first:
+      213: -193648471860565002
+    second: player attacking sword_77
+  - first:
+      213: -7048293351204069440
+    second: player attacking sword_78
+  - first:
+      213: -8793026847428723276
+    second: player attacking sword_79
+  - first:
+      213: 3004402145406659636
+    second: player attacking sword_80
+  - first:
+      213: 789362837723090262
+    second: player attacking sword_81
+  - first:
+      213: 2050626576024405214
+    second: player attacking sword_82
+  - first:
+      213: 4773739045450324900
+    second: player attacking sword_83
+  - first:
+      213: -8016270482420519733
+    second: player attacking sword_84
+  - first:
+      213: -1535317461145469766
+    second: player attacking sword_85
+  - first:
+      213: -7709002865064013737
+    second: player attacking sword_86
+  - first:
+      213: 3226162871262320804
+    second: player attacking sword_87
+  - first:
+      213: -4736151909730880271
+    second: player attacking sword_88
+  - first:
+      213: 8510238100479687670
+    second: player attacking sword_89
+  - first:
+      213: 6551442416358760213
+    second: player attacking sword_90
+  - first:
+      213: -5511036784203375252
+    second: player attacking sword_91
+  - first:
+      213: -2381598291044129812
+    second: player attacking sword_92
+  - first:
+      213: 1638953974730108457
+    second: player attacking sword_93
+  - first:
+      213: -3188059878925844602
+    second: player attacking sword_94
+  - first:
+      213: 4366543449662125321
+    second: player attacking sword_95
+  - first:
+      213: 392887709118146278
+    second: player attacking sword_96
+  - first:
+      213: -7872864901142261892
+    second: player attacking sword_97
+  - first:
+      213: 6570030675476514439
+    second: player attacking sword_98
+  - first:
+      213: -8700742741780281808
+    second: player attacking sword_99
+  - first:
+      213: -7896342089762678233
+    second: player attacking sword_100
+  - first:
+      213: 13786065576358421
+    second: player attacking sword_101
+  - first:
+      213: -6311787321741411840
+    second: player attacking sword_102
+  - first:
+      213: -985713002082323394
+    second: player attacking sword_103
+  - first:
+      213: 2231533159605300047
+    second: player attacking sword_104
+  - first:
+      213: 9001296106084945093
+    second: player attacking sword_105
+  - first:
+      213: 6722985091790251486
+    second: player attacking sword_106
+  - first:
+      213: -5113866520399467217
+    second: player attacking sword_107
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player attacking sword_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 343
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b10652c3d70ca10800000000000000
+      internalID: 1927678337793137464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 343
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7a42fda3ff85350800000000000000
+      internalID: 6005830731415463880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 343
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c343c06c596ce0800000000000000
+      internalID: -1411495437541324648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 343
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2125dfc81c6607d0800000000000000
+      internalID: -2952553651872915158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 343
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87065678696227460800000000000000
+      internalID: 7237889979096326264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 343
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6f2f942686e5ae0800000000000000
+      internalID: -1558693649666869581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 343
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a969f747144fd53c0800000000000000
+      internalID: -4369067501514942822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 343
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6696c77848b85cb80800000000000000
+      internalID: -8375134530700547738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 343
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d36a0568e83a0430800000000000000
+      internalID: 3749872210518107093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 343
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aad7e39a1c395b0800000000000000
+      internalID: -5362729798626071936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 343
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e2f23dc5bc46b50800000000000000
+      internalID: 6585612154663022100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 342
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586f31be894987890800000000000000
+      internalID: -7460049398239332731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2062bd705b6f9110800000000000000
+      internalID: 1269851613392166958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174687682e42dc3f0800000000000000
+      internalID: -879005796930132879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aed70cb099201990800000000000000
+      internalID: -7417382884672545116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9db6540b698b160800000000000000
+      internalID: 7041543701216877043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3413d5473299c0c0800000000000000
+      internalID: -4554948782016228293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d2f9bd734e903d0800000000000000
+      internalID: -3239807528357384950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58437bee3317a8d0800000000000000
+      internalID: -2835276279447336870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b108e064d348bd10800000000000000
+      internalID: 2141536202252616113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7b0fbf939b92d00800000000000000
+      internalID: 948492855229331371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d42470a79577200800000000000000
+      internalID: 177709090947091847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f707eb58900e9fc50800000000000000
+      internalID: 6699632252193501311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 318
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138245e75e8106e60800000000000000
+      internalID: 7953384315882317873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 286
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec0e2248022fea80800000000000000
+      internalID: -8435486158176252704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 286
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c54b2aaf3d4e41a0800000000000000
+      internalID: -6823431449586481723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 286
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3e52247f6d8a750800000000000000
+      internalID: 6316534834842166195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 286
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dde4291ca631bf0800000000000000
+      internalID: -354822566016262828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 286
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad5b0a25017d8ad0800000000000000
+      internalID: -2698376334730895955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 286
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf8afab5f3f6c5e0800000000000000
+      internalID: -1889554756905824340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 286
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67941c110625815a0800000000000000
+      internalID: -6550395085442168458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_31
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 286
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f63797396f081f0800000000000000
+      internalID: -1044564000291721411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_32
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 286
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c4732cb2fdc2000800000000000000
+      internalID: 12630278010260582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_33
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 286
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53932ea41a4e65e50800000000000000
+      internalID: 6797872068959549749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_34
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 286
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acfc36d5d6972f90800000000000000
+      internalID: -6978443252420772697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_35
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 286
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeffe2e8550b8be50800000000000000
+      internalID: 6825399116784140270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf291019207d7a80800000000000000
+      internalID: -8467488402720608306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_37
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440c73531c808f730800000000000000
+      internalID: 4032983092224835652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_38
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81978b16f513d22a0800000000000000
+      internalID: -6760693179882112744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_39
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afb1f8f04fcdb150800000000000000
+      internalID: 5890091765631926179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_40
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430a1d832e7a55120800000000000000
+      internalID: 2402010566329737268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_41
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72cf3cadc07a9740800000000000000
+      internalID: 5159560351766790778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b3b3cb85d3b8100800000000000000
+      internalID: 111250067125123981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_43
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 257
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead75c77bebab3750800000000000000
+      internalID: 6285806732740754862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_44
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 257
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42316d372c952fe80800000000000000
+      internalID: -8146350084257869020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_45
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 257
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6cb97a4152f3630800000000000000
+      internalID: 3908883772222457549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_46
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 257
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6330687cf2551d540800000000000000
+      internalID: 5030895922448827190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_47
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 257
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005040e3e242b8120800000000000000
+      internalID: 2417065406041949440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 221
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f5eafbd491b2200800000000000000
+      internalID: 156246433793466166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 221
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d699b81483f82e0800000000000000
+      internalID: -2121415045302096523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 221
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a4690664f0dbb70800000000000000
+      internalID: 8916299632206039576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_51
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 221
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47930717c1ae9d270800000000000000
+      internalID: 8275903198153161076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_52
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 221
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4590ed5dfe079b0800000000000000
+      internalID: -5084300277469064018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_53
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 221
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b301e7a5362c880800000000000000
+      internalID: -8592195898756285556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 221
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfe70efc1947c770800000000000000
+      internalID: 8630947599748689877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_55
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 221
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cceff314639c380800000000000000
+      internalID: -8950563130547712884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_56
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 221
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b65b62cdd8da750800000000000000
+      internalID: 6317861828952419089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_57
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 221
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3b8a243093a26c0800000000000000
+      internalID: -4167455819011935297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_58
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 221
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce25657c4877ff720800000000000000
+      internalID: 2882153698704118508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_59
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 221
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f746c14ab9faf310800000000000000
+      internalID: 1439737609261041651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 196
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9eddab328aa8f0800000000000000
+      internalID: -528466813430883685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 196
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79873d5a66c69580800000000000000
+      internalID: -8820644660025783942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 196
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0add7cbc9d27500800000000000000
+      internalID: 392615586789433572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 196
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1262adbab2a8ff9d0800000000000000
+      internalID: -2738318128246544863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 196
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f698e02e97fe3510800000000000000
+      internalID: 1530933181881554673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_65
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 196
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c351f87ec43760a0800000000000000
+      internalID: -6888479043642895423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_66
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 195
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b68c4d98fe230e0800000000000000
+      internalID: -2291505885118698642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_67
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 195
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3631389b46c049270800000000000000
+      internalID: 8256237643625599843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_68
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 195
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef47a69dcad7e8f30800000000000000
+      internalID: 4579736052417852670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_69
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 195
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21299ab5030c54340800000000000000
+      internalID: 4847491887863009810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 195
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a82addcb807c9d0800000000000000
+      internalID: -2754223039848478148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_71
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 195
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b408c800de82470800000000000000
+      internalID: 8370200494081067853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 167
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d9b30e469d29e60800000000000000
+      internalID: 7967669718053789027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_73
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 167
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5cefbf07d2e4ad0800000000000000
+      internalID: -2716183561970465362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_74
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 167
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ef771b3b4439730800000000000000
+      internalID: 4004620032229768816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 168
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05940f34e2264c630800000000000000
+      internalID: 3946387124331235664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_76
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 167
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3190e239434afd0800000000000000
+      internalID: -2331680900333890624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_77
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 167
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb2477adb5005df0800000000000000
+      internalID: -193648471860565002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_78
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 167
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfdbb06a8e6f2e90800000000000000
+      internalID: -7048293351204069440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 167
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb9827ba4e8f580800000000000000
+      internalID: -8793026847428723276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_80
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 167
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ca26f45d7c1b920800000000000000
+      internalID: 3004402145406659636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_81
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 167
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d0165915164fa00800000000000000
+      internalID: 789362837723090262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_82
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 167
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed409e6910a457c10800000000000000
+      internalID: 2050626576024405214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_83
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 167
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab9a769e5abf3240800000000000000
+      internalID: 4773739045450324900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 131
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc20efd77c70c090800000000000000
+      internalID: -8016270482420519733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_85
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 131
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc38fe47e471bae0800000000000000
+      internalID: -1535317461145469766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_86
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 131
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750146ffcbe140590800000000000000
+      internalID: -7709002865064013737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_87
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 131
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a81529d902a5cc20800000000000000
+      internalID: 3226162871262320804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_88
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 131
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4f33a6eeec54eb0800000000000000
+      internalID: -4736151909730880271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_89
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 131
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb361596707a1670800000000000000
+      internalID: 8510238100479687670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_90
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 131
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f9d79aa266bea50800000000000000
+      internalID: 6551442416358760213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 131
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d52755e3dd483b0800000000000000
+      internalID: -5511036784203375252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_92
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 131
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce323a8f8fcd2fed0800000000000000
+      internalID: -2381598291044129812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_93
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 131
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ea00bd4fbbeb610800000000000000
+      internalID: 1638953974730108457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_94
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 131
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f33f16e6cb1c3d0800000000000000
+      internalID: -3188059878925844602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_95
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 131
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9057b6de124199c30800000000000000
+      internalID: 4366543449662125321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_96
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 94
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6aa923a41d37500800000000000000
+      internalID: 392887709118146278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_97
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 94
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f46caa517fdb290800000000000000
+      internalID: -7872864901142261892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_98
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 94
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786823ff6107d2b50800000000000000
+      internalID: 6570030675476514439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036c02a2390c04780800000000000000
+      internalID: -8700742741780281808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_100
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72adabab4be8a6290800000000000000
+      internalID: -7896342089762678233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_101
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 70
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51277858a5af03000800000000000000
+      internalID: 13786065576358421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_102
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 40
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00af9c54fd60868a0800000000000000
+      internalID: -6311787321741411840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_103
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 40
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3436644f3b0252f0800000000000000
+      internalID: -985713002082323394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_104
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 40
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b67c2e59ff7fe10800000000000000
+      internalID: 2231533159605300047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_105
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cccc491e170bec70800000000000000
+      internalID: 9001296106084945093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_106
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 12
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5a7623257dc4d50800000000000000
+      internalID: 6722985091790251486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player attacking sword_107
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 12
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2da3de7e75e709b0800000000000000
+      internalID: -5113866520399467217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

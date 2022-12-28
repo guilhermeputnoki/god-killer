@@ -1,0 +1,1485 @@
+fileFormatVersion: 2
+guid: 71109882219aa3440adc4958516ad50b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8786617773985389984
+    second: player stoped 1_0
+  - first:
+      213: 7732839067537652784
+    second: player stoped 1_1
+  - first:
+      213: 2702616428259201736
+    second: player stoped 1_2
+  - first:
+      213: -1829427847787785046
+    second: player stoped 1_3
+  - first:
+      213: 9056042320198636761
+    second: player stoped 1_4
+  - first:
+      213: 4855627180297059209
+    second: player stoped 1_5
+  - first:
+      213: 396545480370070248
+    second: player stoped 1_6
+  - first:
+      213: -9039545813247647768
+    second: player stoped 1_7
+  - first:
+      213: -2273679922740881975
+    second: player stoped 1_8
+  - first:
+      213: -7703817581931305085
+    second: player stoped 1_9
+  - first:
+      213: -3176191552678643450
+    second: player stoped 1_10
+  - first:
+      213: -778087323189788497
+    second: player stoped 1_11
+  - first:
+      213: -7108704337070544818
+    second: player stoped 1_12
+  - first:
+      213: 5918076568032426599
+    second: player stoped 1_13
+  - first:
+      213: -6560599114584036651
+    second: player stoped 1_14
+  - first:
+      213: 5673208731860899625
+    second: player stoped 1_15
+  - first:
+      213: -8693982816150124785
+    second: player stoped 1_16
+  - first:
+      213: 181679327044995267
+    second: player stoped 1_17
+  - first:
+      213: -7323529119476941895
+    second: player stoped 1_18
+  - first:
+      213: -4516702996987948310
+    second: player stoped 1_19
+  - first:
+      213: -2166893844752774491
+    second: player stoped 1_20
+  - first:
+      213: 5027291211387459870
+    second: player stoped 1_21
+  - first:
+      213: 7679284390677930326
+    second: player stoped 1_22
+  - first:
+      213: -2318659667939333553
+    second: player stoped 1_23
+  - first:
+      213: -7050569874132950054
+    second: player stoped 1_24
+  - first:
+      213: 3199427412310715886
+    second: player stoped 1_25
+  - first:
+      213: 1465183453992618635
+    second: player stoped 1_26
+  - first:
+      213: -7834296309279109073
+    second: player stoped 1_27
+  - first:
+      213: -7525129414505269590
+    second: player stoped 1_28
+  - first:
+      213: -7792435614806246048
+    second: player stoped 1_29
+  - first:
+      213: -9037769360984247137
+    second: player stoped 1_30
+  - first:
+      213: -7810685950748759027
+    second: player stoped 1_31
+  - first:
+      213: 131215250126208442
+    second: player stoped 1_32
+  - first:
+      213: 4709945394475703710
+    second: player stoped 1_33
+  - first:
+      213: -2288693109160684997
+    second: player stoped 1_34
+  - first:
+      213: -7646879034487331104
+    second: player stoped 1_35
+  - first:
+      213: -5276036512343585747
+    second: player stoped 1_36
+  - first:
+      213: -6961840860849445070
+    second: player stoped 1_37
+  - first:
+      213: -7327672696986521387
+    second: player stoped 1_38
+  - first:
+      213: 5916853438685849913
+    second: player stoped 1_39
+  - first:
+      213: -4567414508480870267
+    second: player stoped 1_40
+  - first:
+      213: -717252154430629562
+    second: player stoped 1_41
+  - first:
+      213: 5228775646129769773
+    second: player stoped 1_42
+  - first:
+      213: 6742488777952746264
+    second: player stoped 1_43
+  - first:
+      213: -5621885355374812242
+    second: player stoped 1_44
+  - first:
+      213: 7923654946441496073
+    second: player stoped 1_45
+  - first:
+      213: -4002085095781316316
+    second: player stoped 1_46
+  - first:
+      213: 5069919143728073424
+    second: player stoped 1_47
+  - first:
+      213: 851663678704656147
+    second: player stoped 1_48
+  - first:
+      213: -3668944302193783238
+    second: player stoped 1_49
+  - first:
+      213: 6328322463286376250
+    second: player stoped 1_50
+  - first:
+      213: 156972610988799104
+    second: player stoped 1_51
+  - first:
+      213: -1483994780928122815
+    second: player stoped 1_52
+  - first:
+      213: -2244921226406126354
+    second: player stoped 1_53
+  - first:
+      213: 8310716073973662820
+    second: player stoped 1_54
+  - first:
+      213: -7241788434945440710
+    second: player stoped 1_55
+  - first:
+      213: 6973528397761458354
+    second: player stoped 1_56
+  - first:
+      213: -3111743167207546333
+    second: player stoped 1_57
+  - first:
+      213: 1961865016097873431
+    second: player stoped 1_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player stoped 1_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 220
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad588bdf4650f970800000000000000
+      internalID: 8786617773985389984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 220
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c38dd5920905b60800000000000000
+      internalID: 7732839067537652784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 220
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2568a825f918520800000000000000
+      internalID: 2702616428259201736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 220
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d66ea0119c96e0800000000000000
+      internalID: -1829427847787785046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 220
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4185e52868dad70800000000000000
+      internalID: 9056042320198636761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 220
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b765bb137a26340800000000000000
+      internalID: 4855627180297059209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 187
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2aebe6300d08500800000000000000
+      internalID: 396545480370070248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 187
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5971028244270e0800000000000000
+      internalID: -2273679922740881975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 187
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387639ec9ba861590800000000000000
+      internalID: -7703817581931305085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 187
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6093efb6c96ebe3d0800000000000000
+      internalID: -3176191552678643450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 187
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0c909b3bda335f0800000000000000
+      internalID: -778087323189788497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 187
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48a1a7a11fc85d90800000000000000
+      internalID: -7108704337070544818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 158
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ab227884b312250800000000000000
+      internalID: 5918076568032426599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 158
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dae9756dd114f4a0800000000000000
+      internalID: -6560599114584036651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 158
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927963f98494bbe40800000000000000
+      internalID: 5673208731860899625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 158
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07850001b4c85780800000000000000
+      internalID: -8693982816150124785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 158
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c88c87a264758200800000000000000
+      internalID: 181679327044995267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 131
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbf85b41199d5a90800000000000000
+      internalID: -7323529119476941895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 131
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae257940e827151c0800000000000000
+      internalID: -4516702996987948310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 95
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac7856785ade1e0800000000000000
+      internalID: -2166893844752774491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 65
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19513598b684c540800000000000000
+      internalID: 5027291211387459870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 95
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6516f8b777c429a60800000000000000
+      internalID: 7679284390677930326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 95
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a6379115772dfd0800000000000000
+      internalID: -2318659667939333553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 95
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad32c341e08572e90800000000000000
+      internalID: -7050569874132950054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 95
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed6d6bb746a66c20800000000000000
+      internalID: 3199427412310715886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 95
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a820aa690655410800000000000000
+      internalID: 1465183453992618635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 95
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d34cb30df64390800000000000000
+      internalID: -7834296309279109073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_28
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 95
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6f197daae519790800000000000000
+      internalID: -7525129414505269590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 95
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dfe5c2815bbd390800000000000000
+      internalID: -7792435614806246048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 65
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94ff9c76a4639280800000000000000
+      internalID: -9037769360984247137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 65
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c6c75b28eda9390800000000000000
+      internalID: -7810685950748759027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 65
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdf2e4239b22d100800000000000000
+      internalID: 131215250126208442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 65
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d1635c1661d5140800000000000000
+      internalID: 4709945394475703710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_34
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 65
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32d7944ebdec30e0800000000000000
+      internalID: -2288693109160684997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 65
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c05c3eeb0c7c6b0800000000000000
+      internalID: -5276036512343585747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_37
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 65
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237e44a5f92926f90800000000000000
+      internalID: -6961840860849445070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_38
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 65
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d03ac97180ee4a90800000000000000
+      internalID: -7327672696986521387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 33
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9392be88ad2ec1250800000000000000
+      internalID: 5916853438685849913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 33
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588480824b84d90c0800000000000000
+      internalID: -4567414508480870267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 33
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64957c837fecb06f0800000000000000
+      internalID: -717252154430629562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 33
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d47c53fb7509840800000000000000
+      internalID: 5228775646129769773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_43
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 33
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b5eeff1d1229d50800000000000000
+      internalID: 6742488777952746264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 33
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3e9e82e0d0bf1b0800000000000000
+      internalID: -5621885355374812242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_45
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 33
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9068965413a76fd60800000000000000
+      internalID: 7923654946441496073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_46
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 33
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429c1113fccb578c0800000000000000
+      internalID: -4002085095781316316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 33
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da4dd18998fb5640800000000000000
+      internalID: 5069919143728073424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_48
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 6
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f1b4d7a97b1db00800000000000000
+      internalID: 851663678704656147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_49
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 6
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ecb07989a451dc0800000000000000
+      internalID: -3668944302193783238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 6
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a373f4060c7b2d750800000000000000
+      internalID: 6328322463286376250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 6
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084f37d02cdad2200800000000000000
+      internalID: 156972610988799104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_52
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 6
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140ee3afb9ac76be0800000000000000
+      internalID: -1483994780928122815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 5
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec1457e90078d0e0800000000000000
+      internalID: -2244921226406126354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_54
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 5
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464445abc38955370800000000000000
+      internalID: 8310716073973662820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_55
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 5
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a348b8c79cfff7b90800000000000000
+      internalID: -7241788434945440710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 5
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322685e731ed0d4d0800000000000000
+      internalID: -3111743167207546333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player stoped 1_58
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 158
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e97c576d1f93b10800000000000000
+      internalID: 1961865016097873431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

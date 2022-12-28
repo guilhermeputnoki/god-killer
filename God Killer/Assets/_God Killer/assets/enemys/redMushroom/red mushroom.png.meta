@@ -1,0 +1,1644 @@
+fileFormatVersion: 2
+guid: d5c75b7d85790c94dbe723f8757b9477
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8115374593386534423
+    second: red mushroom_0
+  - first:
+      213: 3646895697834331870
+    second: red mushroom_1
+  - first:
+      213: 938866742233127406
+    second: red mushroom_2
+  - first:
+      213: -7137841695076924480
+    second: red mushroom_3
+  - first:
+      213: 6236175009882512110
+    second: red mushroom_4
+  - first:
+      213: -1212117906977464266
+    second: red mushroom_5
+  - first:
+      213: -2662164272863404412
+    second: red mushroom_6
+  - first:
+      213: -6850508937368029987
+    second: red mushroom_7
+  - first:
+      213: 2095593894486030558
+    second: red mushroom_8
+  - first:
+      213: -3315716596435320118
+    second: red mushroom_9
+  - first:
+      213: 7583843249660229979
+    second: red mushroom_10
+  - first:
+      213: -7114773794527218829
+    second: red mushroom_11
+  - first:
+      213: -4090481279499217993
+    second: red mushroom_12
+  - first:
+      213: -6201064237892964510
+    second: red mushroom_13
+  - first:
+      213: -3193388601483162494
+    second: red mushroom_14
+  - first:
+      213: -3477461954583151976
+    second: red mushroom_15
+  - first:
+      213: 8569899817841731510
+    second: red mushroom_16
+  - first:
+      213: -264443775247219711
+    second: red mushroom_17
+  - first:
+      213: -738006848184430497
+    second: red mushroom_18
+  - first:
+      213: 8101795681102714082
+    second: red mushroom_19
+  - first:
+      213: 47565731319924981
+    second: red mushroom_20
+  - first:
+      213: 7404935570405889535
+    second: red mushroom_21
+  - first:
+      213: -7740971933867331387
+    second: red mushroom_22
+  - first:
+      213: -8192022637962557663
+    second: red mushroom_23
+  - first:
+      213: 5156981864249487489
+    second: red mushroom_24
+  - first:
+      213: 2561735191190536353
+    second: red mushroom_25
+  - first:
+      213: 7822682966864472008
+    second: red mushroom_26
+  - first:
+      213: -7439777054556549529
+    second: red mushroom_27
+  - first:
+      213: 3381287180761112208
+    second: red mushroom_28
+  - first:
+      213: 8809159010584072230
+    second: red mushroom_29
+  - first:
+      213: -6228348877812009621
+    second: red mushroom_30
+  - first:
+      213: 6950451630620224714
+    second: red mushroom_31
+  - first:
+      213: -8867503519677221978
+    second: red mushroom_32
+  - first:
+      213: -4967833707258695814
+    second: red mushroom_33
+  - first:
+      213: 8427899457108493619
+    second: red mushroom_34
+  - first:
+      213: -7826827746738045197
+    second: red mushroom_35
+  - first:
+      213: -2436096604089789476
+    second: red mushroom_36
+  - first:
+      213: -507050430794586560
+    second: red mushroom_37
+  - first:
+      213: 2515038664407296452
+    second: red mushroom_38
+  - first:
+      213: 9141593488076382102
+    second: red mushroom_39
+  - first:
+      213: -1348911394252168105
+    second: red mushroom_40
+  - first:
+      213: 8317897433017628289
+    second: red mushroom_41
+  - first:
+      213: 6728182162095991712
+    second: red mushroom_42
+  - first:
+      213: 7794919256042130547
+    second: red mushroom_43
+  - first:
+      213: -4142818181726385650
+    second: red mushroom_44
+  - first:
+      213: 5931140901104668240
+    second: red mushroom_45
+  - first:
+      213: -4887758273395893134
+    second: red mushroom_46
+  - first:
+      213: -2855845813429670415
+    second: red mushroom_47
+  - first:
+      213: 8774790363242398114
+    second: red mushroom_48
+  - first:
+      213: 5854031323543719039
+    second: red mushroom_49
+  - first:
+      213: -6490334560173419190
+    second: red mushroom_50
+  - first:
+      213: -227099407793735672
+    second: red mushroom_51
+  - first:
+      213: -7142759563879042794
+    second: red mushroom_52
+  - first:
+      213: -1071765573448368203
+    second: red mushroom_53
+  - first:
+      213: 8292491230591383189
+    second: red mushroom_54
+  - first:
+      213: -7583015313175785253
+    second: red mushroom_55
+  - first:
+      213: -763273543111852295
+    second: red mushroom_56
+  - first:
+      213: 2694779464545796134
+    second: red mushroom_57
+  - first:
+      213: -908441333589395740
+    second: red mushroom_58
+  - first:
+      213: -5965261501184456848
+    second: red mushroom_59
+  - first:
+      213: -5499322789663295649
+    second: red mushroom_60
+  - first:
+      213: -3965582518641994954
+    second: red mushroom_61
+  - first:
+      213: -8317969985338304901
+    second: red mushroom_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red mushroom_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 264
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716d802123a9f9070800000000000000
+      internalID: 8115374593386534423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 264
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edec05aa0506c9230800000000000000
+      internalID: 3646895697834331870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 264
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9db36e356870d00800000000000000
+      internalID: 938866742233127406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 264
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3c7f5dbca41fc90800000000000000
+      internalID: -7137841695076924480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 264
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea173d71285b8650800000000000000
+      internalID: 6236175009882512110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 264
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630e7b88f21bd2fe0800000000000000
+      internalID: -1212117906977464266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 264
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e9d36d2b71e0bd0800000000000000
+      internalID: -2662164272863404412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 263
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd43a81ca6a1ee0a0800000000000000
+      internalID: -6850508937368029987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 263
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8315a4b8b051d10800000000000000
+      internalID: 2095593894486030558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 263
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac20b9da2553cf1d0800000000000000
+      internalID: -3315716596435320118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_10
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 263
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59fd3031493f3960800000000000000
+      internalID: 7583843249660229979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 226
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37372f7fdee334d90800000000000000
+      internalID: -7114773794527218829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 226
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b35017d2f0bb37c0800000000000000
+      internalID: -4090481279499217993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 226
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fe2072ee461f9a0800000000000000
+      internalID: -6201064237892964510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 226
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c80da7cfdcea3d0800000000000000
+      internalID: -3193388601483162494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 226
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ab225d6c29dbfc0800000000000000
+      internalID: -3477461954583151976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 226
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b72423aa766ee670800000000000000
+      internalID: 8569899817841731510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 226
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104835999c1845cf0800000000000000
+      internalID: -264443775247219711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_18
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 232
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5059248ea212c5f0800000000000000
+      internalID: -738006848184430497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 232
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4dbee2f3c5f6070800000000000000
+      internalID: 8101795681102714082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 190
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f84ec6d7ccf8a000800000000000000
+      internalID: 47565731319924981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 190
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff592b21bad93c660800000000000000
+      internalID: 7404935570405889535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 190
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0b1912a0b829490800000000000000
+      internalID: -7740971933867331387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 190
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127884060d6105e80800000000000000
+      internalID: -8192022637962557663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 190
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180f8b3cea7419740800000000000000
+      internalID: 5156981864249487489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 190
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0878f659c1d8320800000000000000
+      internalID: 2561735191190536353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 190
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7a47646b0cf8c60800000000000000
+      internalID: 7822682966864472008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 153
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e0e0fbf2a90c890800000000000000
+      internalID: -7439777054556549529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 153
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e19dca6cebcee20800000000000000
+      internalID: 3381287180761112208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 153
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6209bcb727b604a70800000000000000
+      internalID: 8809159010584072230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 154
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65ffc0e1b57099a0800000000000000
+      internalID: -6228348877812009621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 154
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc27a7dee6f47060800000000000000
+      internalID: 6950451630620224714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 154
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3fc19e78c40f480800000000000000
+      internalID: -8867503519677221978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 154
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f22af5095be0bb0800000000000000
+      internalID: -4967833707258695814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 119
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335c8af37e9e5f470800000000000000
+      internalID: 8427899457108493619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 119
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fef185f1a5816390800000000000000
+      internalID: -7826827746738045197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 119
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd351baab0f313ed0800000000000000
+      internalID: -2436096604089789476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 119
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046a745d15896f8f0800000000000000
+      internalID: -507050430794586560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 119
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9ae5c075637e220800000000000000
+      internalID: 2515038664407296452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 119
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f11d9d7d67dde70800000000000000
+      internalID: 9141593488076382102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_40
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 119
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7546f18db34b74de0800000000000000
+      internalID: -1348911394252168105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 81
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186362d25ab1f6370800000000000000
+      internalID: 8317897433017628289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 81
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abe9db670e4f5d50800000000000000
+      internalID: 6728182162095991712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_43
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 81
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c4e3d93cd1d2c60800000000000000
+      internalID: 7794919256042130547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 81
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a4b2530d0c186c0800000000000000
+      internalID: -4142818181726385650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_45
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 81
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e422b9935af4250800000000000000
+      internalID: 5931140901104668240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 81
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd24e2fb13b2cb0800000000000000
+      internalID: -4887758273395893134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_47
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 81
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdec351d5ffd58d0800000000000000
+      internalID: -2855845813429670415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 45
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a18593385156c970800000000000000
+      internalID: 8774790363242398114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 45
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c45d70972bd3150800000000000000
+      internalID: 5854031323543719039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_50
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 45
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a451c63da13bde5a0800000000000000
+      internalID: -6490334560173419190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_51
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 45
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808b0c5ba4e29dcf0800000000000000
+      internalID: -227099407793735672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_52
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 45
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61137f64502dfdc90800000000000000
+      internalID: -7142759563879042794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_53
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 45
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bffd10b3e25021f0800000000000000
+      internalID: -1071765573448368203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 45
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596f076b6d8d41370800000000000000
+      internalID: 8292491230591383189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd05fcbcfb7b3c690800000000000000
+      internalID: -7583015313175785253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 7
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe3d5ca1ce4865f0800000000000000
+      internalID: -763273543111852295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 7
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620054c35a7c56520800000000000000
+      internalID: 2694779464545796134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 7
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e63f149b619463f0800000000000000
+      internalID: -908441333589395740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_59
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077469d1542273da0800000000000000
+      internalID: -5965261501184456848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_60
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 7
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57b8e83f0b7ea3b0800000000000000
+      internalID: -5499322789663295649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 7
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63358d8b5bb67f8c0800000000000000
+      internalID: -3965582518641994954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mushroom_62
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b769c8b6e52a09c80800000000000000
+      internalID: -8317969985338304901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

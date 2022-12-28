@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 364e7b09cb68de4428003259da906a31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5892088168402565752
+    second: player walking attacking sword corections_0
+  - first:
+      213: -2944520327035719856
+    second: player walking attacking sword corections_1
+  - first:
+      213: 9216911240629163439
+    second: player walking attacking sword corections_2
+  - first:
+      213: -5148650242745783856
+    second: player walking attacking sword corections_3
+  - first:
+      213: -7766156865316474003
+    second: player walking attacking sword corections_4
+  - first:
+      213: -2092746035546768196
+    second: player walking attacking sword corections_5
+  - first:
+      213: 720282331526522218
+    second: player walking attacking sword corections_6
+  - first:
+      213: -313159914147889668
+    second: player walking attacking sword corections_7
+  - first:
+      213: -1272208906014173965
+    second: player walking attacking sword corections_8
+  - first:
+      213: -38989728523673567
+    second: player walking attacking sword corections_9
+  - first:
+      213: -3647474403935633197
+    second: player walking attacking sword corections_10
+  - first:
+      213: 5691303555816437820
+    second: player walking attacking sword corections_11
+  - first:
+      213: -7470686829367179516
+    second: player walking attacking sword corections_12
+  - first:
+      213: -8615418340476692714
+    second: player walking attacking sword corections_13
+  - first:
+      213: 4805243263909763704
+    second: player walking attacking sword corections_14
+  - first:
+      213: 359063411874018319
+    second: player walking attacking sword corections_15
+  - first:
+      213: 6844251733586024169
+    second: player walking attacking sword corections_16
+  - first:
+      213: -1851871514650742417
+    second: player walking attacking sword corections_17
+  - first:
+      213: 3421251137708912685
+    second: player walking attacking sword corections_18
+  - first:
+      213: -8496020531526612648
+    second: player walking attacking sword corections_19
+  - first:
+      213: 7084838753934686163
+    second: player walking attacking sword corections_20
+  - first:
+      213: -799023698883461657
+    second: player walking attacking sword corections_21
+  - first:
+      213: -5776334310848446625
+    second: player walking attacking sword corections_22
+  - first:
+      213: 5882513644586253575
+    second: player walking attacking sword corections_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player walking attacking sword corections_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 79
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87abae6b8f6e4c150800000000000000
+      internalID: 5892088168402565752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f6e110d56f227d0800000000000000
+      internalID: -2944520327035719856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 79
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59108a0fb09ef70800000000000000
+      internalID: 9216911240629163439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9a86802e15c88b0800000000000000
+      internalID: -5148650242745783856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 79
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63b9d45a71193490800000000000000
+      internalID: -7766156865316474003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 79
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcb02a819215f2e0800000000000000
+      internalID: -2092746035546768196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 79
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65e0acd6f4fef900800000000000000
+      internalID: 720282331526522218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 79
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdb25f97be67abf0800000000000000
+      internalID: -313159914147889668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 79
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4dfec8db4385ee0800000000000000
+      internalID: -1272208906014173965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 79
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12025796c0b757ff0800000000000000
+      internalID: -38989728523673567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 79
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d04612da51916dc0800000000000000
+      internalID: -3647474403935633197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 79
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c383b512e629bfe40800000000000000
+      internalID: 5691303555816437820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 46
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407416bf8e9c25890800000000000000
+      internalID: -7470686829367179516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 46
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61750807aa2ef6880800000000000000
+      internalID: -8615418340476692714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 46
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a1eac0a47afa240800000000000000
+      internalID: 4805243263909763704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 46
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04379c4546abf400800000000000000
+      internalID: 359063411874018319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 46
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e61fb570baabfe50800000000000000
+      internalID: 6844251733586024169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 46
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61f3974ba4dc46e0800000000000000
+      internalID: -1851871514650742417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 46
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d207a8e78c9ba7f20800000000000000
+      internalID: 3421251137708912685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 46
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8594ee52752181a80800000000000000
+      internalID: -8496020531526612648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 46
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b2334f47625260800000000000000
+      internalID: 7084838753934686163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 46
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edbee4ed2c49e4f0800000000000000
+      internalID: -799023698883461657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 46
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f3af17c8656dfa0800000000000000
+      internalID: -5776334310848446625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player walking attacking sword corections_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 46
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70db3fb2ef2e2a150800000000000000
+      internalID: 5882513644586253575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

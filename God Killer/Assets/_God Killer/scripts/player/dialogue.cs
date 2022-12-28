@@ -13,12 +13,7 @@ public class dialogue : MonoBehaviour
     public bool bossDialogue;
     public bool bossFinalDialogue;
 
-    private dialogueControl dc;
-
-    private void Start()
-    {
-        dc = FindObjectOfType<dialogueControl>();
-    }
+    public dialogueControl dc;
 
     public void Activate()
     {

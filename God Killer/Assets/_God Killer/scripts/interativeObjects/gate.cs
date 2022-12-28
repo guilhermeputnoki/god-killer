@@ -10,6 +10,8 @@ public class gate : MonoBehaviour
     public stoneLight4 SL4;
     public stoneLight5 SL5;
 
+    public eletricSwitch elSwitch;
+
     private Animator anim;
 
     public int buttonPressed = 0;
@@ -18,6 +20,9 @@ public class gate : MonoBehaviour
     public bool gateOneButton;
     public bool oneStoneLight;
     public bool fourStoneLight;
+    public bool gate1;
+    public bool gate2;
+
 
     void Start()
     {
@@ -27,6 +32,7 @@ public class gate : MonoBehaviour
     void Update()
     {
         OpenClose();
+        EletricOpenClose();
     }
 
     private void OpenClose()
@@ -72,6 +78,27 @@ public class gate : MonoBehaviour
                 }
             }
             
+        }
+    }
+
+    public void EletricOpenClose()
+    {
+        if(elSwitch.active == true && gate1 == true)
+        {
+            anim.SetBool("open4", true);
+        }
+        else
+        {
+            anim.SetBool("open4", false);
+        }
+
+        if(elSwitch.active == true && gate2 == true)
+        {
+            anim.SetBool("open3", true);
+        }
+        else
+        {
+            anim.SetBool("open3", false);
         }
     }
 }

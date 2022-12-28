@@ -1,0 +1,807 @@
+fileFormatVersion: 2
+guid: c86bf7f9ed6144b4eada17fccdf74886
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4097360787689063777
+    second: pinkRobotProjectile_0
+  - first:
+      213: -6020226515821508925
+    second: pinkRobotProjectile_1
+  - first:
+      213: 6968099984944289971
+    second: pinkRobotProjectile_2
+  - first:
+      213: -4677922791997140752
+    second: pinkRobotProjectile_3
+  - first:
+      213: 3242314312646330530
+    second: pinkRobotProjectile_4
+  - first:
+      213: -6237121910075717373
+    second: pinkRobotProjectile_5
+  - first:
+      213: -4941210493743785431
+    second: pinkRobotProjectile_6
+  - first:
+      213: 8488617641003713122
+    second: pinkRobotProjectile_7
+  - first:
+      213: -5469875504036335683
+    second: pinkRobotProjectile_8
+  - first:
+      213: 2477127326514051492
+    second: pinkRobotProjectile_9
+  - first:
+      213: 279745649857263384
+    second: pinkRobotProjectile_10
+  - first:
+      213: 6209217796485486537
+    second: pinkRobotProjectile_11
+  - first:
+      213: -7115458556828477888
+    second: pinkRobotProjectile_12
+  - first:
+      213: -5337031221144021456
+    second: pinkRobotProjectile_13
+  - first:
+      213: -6482975072506277817
+    second: pinkRobotProjectile_14
+  - first:
+      213: 3654440450710864728
+    second: pinkRobotProjectile_15
+  - first:
+      213: 8221478341182634894
+    second: pinkRobotProjectile_16
+  - first:
+      213: 3088038243427507163
+    second: pinkRobotProjectile_17
+  - first:
+      213: -7298445829442800108
+    second: pinkRobotProjectile_18
+  - first:
+      213: 5934982352156582212
+    second: pinkRobotProjectile_19
+  - first:
+      213: 1249296231313855477
+    second: pinkRobotProjectile_20
+  - first:
+      213: 1879841458757968622
+    second: pinkRobotProjectile_21
+  - first:
+      213: 8254838739991208892
+    second: pinkRobotProjectile_22
+  - first:
+      213: 7858367412704607334
+    second: pinkRobotProjectile_23
+  - first:
+      213: -7174161993483686075
+    second: pinkRobotProjectile_24
+  - first:
+      213: 3833861792733395013
+    second: pinkRobotProjectile_25
+  - first:
+      213: -5803929416088452256
+    second: pinkRobotProjectile_26
+  - first:
+      213: 7836981284994202898
+    second: pinkRobotProjectile_27
+  - first:
+      213: -2695375261705406517
+    second: pinkRobotProjectile_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pinkRobotProjectile_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 363
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16542da7defbcd830800000000000000
+      internalID: 4097360787689063777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 363
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6421161ebd37ca0800000000000000
+      internalID: -6020226515821508925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 363
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f09e40610ea41fb0800000000000000
+      internalID: -4677922791997140752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 363
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8037750b30ffc20800000000000000
+      internalID: 3242314312646330530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 364
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30981212baa4179a0800000000000000
+      internalID: -6237121910075717373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_6
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 363
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a18ff4c3b4d6bb0800000000000000
+      internalID: -4941210493743785431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 312
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262042615c0adc570800000000000000
+      internalID: 8488617641003713122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 312
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfad40b5391714b0800000000000000
+      internalID: -5469875504036335683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 312
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a97848dd26806220800000000000000
+      internalID: 2477127326514051492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 312
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817f337bf2bd1e300800000000000000
+      internalID: 279745649857263384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 312
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c71d8420b29b2650800000000000000
+      internalID: 6209217796485486537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 312
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04699325420d04d90800000000000000
+      internalID: -7115458556828477888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 312
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0369a84916e0fe5b0800000000000000
+      internalID: -5337031221144021456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 263
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7401d831588d706a0800000000000000
+      internalID: -6482975072506277817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 263
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85380755a3e27b230800000000000000
+      internalID: 3654440450710864728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 263
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b32c6fdfe881270800000000000000
+      internalID: 8221478341182634894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 263
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb5158db6aeada20800000000000000
+      internalID: 3088038243427507163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 263
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41671abdf26b6ba90800000000000000
+      internalID: -7298445829442800108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 263
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4416180210b4d5250800000000000000
+      internalID: 5934982352156582212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 263
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f352b6ad44665110800000000000000
+      internalID: 1249296231313855477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 204
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2225fc8d9861a10800000000000000
+      internalID: 1879841458757968622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 204
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb32f4719141f8270800000000000000
+      internalID: 8254838739991208892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 204
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c73c4c6878e0d60800000000000000
+      internalID: 7858367412704607334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 204
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54feb416da1407c90800000000000000
+      internalID: -7174161993483686075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 204
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548f0d1ecfc943530800000000000000
+      internalID: 3833861792733395013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 204
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0638b9452fc447fa0800000000000000
+      internalID: -5803929416088452256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_27
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 204
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21db673e4fc82cc60800000000000000
+      internalID: 7836981284994202898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkRobotProjectile_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 363
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc77cadea7a189ad0800000000000000
+      internalID: -2695375261705406517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
