@@ -57470,13 +57470,13 @@ MonoBehaviour:
   speechTxt:
   - "Bom, essa espada \xE9 uma espada de treino ent\xE3o ela \xE9 bem fraca mais
     da pro gasto acho que voc\xEA consegue se virar bem com ela"
-  - "aperte TAB para abrir o seu invent\xE1rio selecione a espada e aperte a tecla
+  - "Aperte TAB para abrir o seu invent\xE1rio selecione a espada e aperte a tecla
     do slot que voc\xEA quer equipar"
   - "Voc\xEA apenas precisa olhar em dire\xE7\xE3o ao inimigo com a espada equipada
     e apertar o bot\xE3o esquerdo do mause para atacar"
-  - "Vou destravar um dos bonecos de treino para voc\xEA por isso em pr\xE1tica n\xE3o
-    se preucupe eles s\xE3o os monstros mais fracos que existem"
-  - "quando voc\xEA acabar com ele volte at\xE9 mim "
+  - "Vou destravar um dos bonecos de treino para voc\xEA por isso em pr\xE1tica,
+    n\xE3o se preucupe eles s\xE3o os monstros mais fracos que existem"
+  - "Quando voc\xEA acabar com ele volte at\xE9 mim "
   - "Tenho certeza que voc\xEA ir\xE1 se sair bem agora v\xE1 e acabe com ele"
   characterName: Knight
   characterName2: Knight
@@ -61287,12 +61287,12 @@ MonoBehaviour:
   profile: {fileID: 5629600339287228216, guid: 6c75548eccccee94487a4fea6a454a3c, type: 3}
   profile2: {fileID: 21300000, guid: 68bf41ecf8f505c4e97101fc213cd3bf, type: 3}
   speechTxt:
-  - porfavor deixe-me passar preciso continuar a minha jornada
-  - "mas voc\xEA est\xE1 indefeso e aumentou muito o indice de monstros nessa \xE1rea"
-  - "eu consigo me virar como eu ja me virei o caminho todo at\xE9 aqui me deixe
+  - Porfavor deixe-me passar preciso continuar a minha jornada
+  - "Mas voc\xEA est\xE1 indefeso e aumentou muito o indice de monstros nessa \xE1rea"
+  - "Eu consigo me virar como eu ja me virei o caminho todo at\xE9 aqui me deixe
     passar"
-  - "eu sou um cavaleiro ent\xE3o meu dever \xE9 proteger os cidad\xE3os dessa vila
-    voc\xEA n\xE3o vai sair sem aomenos uma espada"
+  - "Eu sou um cavaleiro ent\xE3o meu dever \xE9 proteger os cidad\xE3os dessa vila
+    voc\xEA n\xE3o vai sair sem ao menos uma espada"
   characterName: Cody
   characterName2: Knight
   longDialogue: 1

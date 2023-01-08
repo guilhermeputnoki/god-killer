@@ -8,6 +8,8 @@ public class changeCamera : MonoBehaviour
     public bool mainCamera = true;
     public bool bossFight;
     public bool needConsition;
+    public bool able;
+    public bool nonCollision;
     public eletricSwitch condition;
 
     [SerializeField]
@@ -18,9 +20,17 @@ public class changeCamera : MonoBehaviour
 
     public BoxCollider2D bc;
 
+    public void Update()
+    {
+        if(needConsition == true && condition.active == true && able == true)
+        {
+            StartCoroutine(NonCollisionCutScene());
+        }
+    }
+
     private void ChangePriority()
     {
-        if(needConsition == true)
+        if(needConsition == true && nonCollision == false)
         {
             if(condition.active == false)
             {
@@ -89,5 +99,16 @@ public class changeCamera : MonoBehaviour
         yield return new WaitForSeconds(1f);
         bc.enabled = false;
         yield return new WaitForSeconds(1f);
+    }
+
+    IEnumerator NonCollisionCutScene()
+    {
+        vcam1.Priority = 0;
+        vcam2.Priority = 1;
+        yield return new WaitForSeconds(3f);
+        vcam1.Priority = 1;
+        vcam2.Priority = 0;
+        yield return new WaitForSeconds(3f);
+        able = false;
     }
 }

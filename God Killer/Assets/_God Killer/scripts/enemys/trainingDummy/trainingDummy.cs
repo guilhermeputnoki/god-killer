@@ -22,12 +22,14 @@ public class trainingDummy : MonoBehaviour
         anim = GetComponent<Animator>();
         bc = GetComponent<BoxCollider2D>();
         sprite = GetComponent<SpriteRenderer>();
+        anim.enabled = false;
     }
 
     void Update()
     {
         if(alive == true)
         {
+            anim.enabled = true;
             speed = 1f;
             if(sightUp.range)
             {
