@@ -20,6 +20,8 @@ public class eletricGolem : MonoBehaviour
     public float speed;
     public int life = 15;
     public eletricSwitch elSwitch;
+    public killAllRoom AKRoom;
+    public bool AKRoomEnemy;
 
     private Transform target;
     private Animator anim;
@@ -39,6 +41,10 @@ public class eletricGolem : MonoBehaviour
 
     void Update()
     {
+        if(AKRoomEnemy && AKRoom.activateEnemys == true)
+        {
+            alive = true;
+        }
         if(elSwitch.active == true)
         {
             alive = true;
@@ -122,16 +128,8 @@ public class eletricGolem : MonoBehaviour
             {
                 StartCoroutine(AttackLeft());
             }  
-
-            if(life <= 0)
-            {
-                alive = false;
-                speed = 0;
-                anim.SetBool("alive", false);
-                bc.enabled = false;
-                Destroy(gameObject, 1f);
-            }
         }
+        
     }
 
     void OnTriggerEnter2D(Collider2D collision)
@@ -140,6 +138,19 @@ public class eletricGolem : MonoBehaviour
         {
             life -= 1;
             StartCoroutine(TakeDamage());
+
+            if(life <= 0)
+            {
+                if(AKRoomEnemy)
+                {
+                    AKRoom.currentKills +=1;
+                }
+                alive = false;
+                speed = 0;
+                anim.SetBool("alive", false);
+                bc.enabled = false;
+                Destroy(gameObject, 1f);
+            }
         }
     }
 

@@ -22,6 +22,7 @@ public class gate : MonoBehaviour
     public bool fourStoneLight;
     public bool gate1;
     public bool gate2;
+    public bool killGate;
 
 
     void Start()
@@ -79,11 +80,20 @@ public class gate : MonoBehaviour
             }
             
         }
+
+        if(killGate)
+        {
+            anim.SetBool("open3", true);
+        }
+        else
+        {
+            anim.SetBool("open3", false);
+        }
     }
 
     public void EletricOpenClose()
     {
-        if(elSwitch.active == true && gate1 == true)
+        if(gate1 == true && elSwitch.active == true)
         {
             anim.SetBool("open4", true);
         }
@@ -92,7 +102,7 @@ public class gate : MonoBehaviour
             anim.SetBool("open4", false);
         }
 
-        if(elSwitch.active == true && gate2 == true)
+        if(gate2 == true && elSwitch.active == true)
         {
             anim.SetBool("open3", true);
         }

@@ -17,6 +17,7 @@ public class playerAnimations : MonoBehaviour
     public bool takingItem;
 
     public GameObject heartPieceOnHand;
+    public GameObject bossKeyOnHand;
     
 
     public bool EquipSword;

@@ -15,9 +15,12 @@ public class inventory : MonoBehaviour
 
     public GameObject trainingSword;
 
+    public GameObject bossKeyHUD;
+
     private bool activate;
     public bool equipping;
     public int basicSword;
+    public int bossKey;
 
     void Start()
     {
@@ -84,6 +87,15 @@ public class inventory : MonoBehaviour
         else
         {
             trainingSword.SetActive(false);
+        }
+
+        if(bossKey == 1)
+        {
+            bossKeyHUD.SetActive(true);
+        }
+        else
+        {
+            bossKeyHUD.SetActive(false);
         }
     }
 

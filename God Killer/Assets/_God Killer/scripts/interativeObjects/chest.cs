@@ -15,7 +15,10 @@ public class chest : MonoBehaviour
     private Animator anim;
 
     public AudioSource open;
-    public AudioSource colectHeart;
+    public AudioSource colect;
+
+    public bool colectBossKey;
+    public bool colectHeart;
 
     void Start()
     {
@@ -40,7 +43,14 @@ public class chest : MonoBehaviour
         yield return new WaitForSeconds(1f);
         Instantiate(heartPiece, spawn.position, spawn.rotation);
         PlayerAnim.takingItem = true;
-        PlayerAnim.heartPieceOnHand.SetActive(true);
-        colectHeart.Play();
+        if(colectHeart == true)
+        {
+            PlayerAnim.heartPieceOnHand.SetActive(true);
+        }
+        if(colectBossKey == true)
+        {
+            PlayerAnim.bossKeyOnHand.SetActive(true);
+        }
+        colect.Play();
     }
 }
